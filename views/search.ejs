@@ -1,0 +1,24 @@
+<html lang="en">
+    <%- include('./partials/nav.ejs') %>
+    <body>
+        <div>
+            <form action="/searchbar" method="POST">
+                <b>Procedure Search</b></br> 
+                </br><label>Search:</label></br>
+                <label>Procedure Name:
+                    <input type="text" id="keyword" name="keyword" value="<%= locals.keyword %>" required>
+                </label>
+                </br>
+                <label>Database Type:
+                    <select id="database" name="database">
+                        <option value="postgres">PostgreSQL</option>
+                        <option value="mongodb">MongoDB</option>
+                        <option value="both">Both</option>
+                    </select>
+                </label>
+                </br>
+                <button type="submit">Search</button>
+            </form>
+        </div>
+    </body>
+</html>
