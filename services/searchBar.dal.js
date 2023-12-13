@@ -19,12 +19,21 @@ var getProceduresPg = function (keyword) {
   });
 };
 
-// Get Mongo database procedures ---------- this needs to be updated to get a query
-async function getProceduresMongo() {
+// Query Mongo DB results by keyword
+async function getProceduresMongo(keyword) {
   if (DEBUG) console.log("dal.getProceduresMongo()");
   try {
     await mongoDal.connect();
-    const cursor = mongoDal.db("procedures").collection("procedures").find();
+
+    // Create a query object to filter by name using the provided keyword
+    const query = { name: { $regex: new RegExp(keyword, "i") } };
+
+    // Use the query object in the find method
+    const cursor = mongoDal
+      .db("procedures")
+      .collection("procedures")
+      .find(query);
+
     const results = await cursor.toArray();
     return results;
   } catch (error) {
