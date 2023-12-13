@@ -1,0 +1,6000 @@
+[{
+  "_id": {
+    "$oid": "65766b337461e79ea230036b"
+  },
+  "id": 1,
+  "name": "Revision of Spacer in Right Shoulder Joint, Perc Approach",
+  "billing_number": "1J04EA6AM88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230036c"
+  },
+  "id": 2,
+  "name": "Extirpation of Matter from Ascending Colon, Perc Approach",
+  "billing_number": "5G08GJ6XM08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230036d"
+  },
+  "id": 3,
+  "name": "Drainage of Right Hip Joint, Percutaneous Approach, Diagn",
+  "billing_number": "1FV2GV0PE50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230036e"
+  },
+  "id": 4,
+  "name": "Drainage of Retroperitoneum with Drain Dev, Perc Approach",
+  "billing_number": "6MM0RR4NG09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230036f"
+  },
+  "id": 5,
+  "name": "Dilation of L Foot Art with Intralum Dev, Open Approach",
+  "billing_number": "7RQ7AP7XJ14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300370"
+  },
+  "id": 6,
+  "name": "Repair Right Kidney Pelvis, Percutaneous Endoscopic Approach",
+  "billing_number": "4WV4CE2NG28"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300371"
+  },
+  "id": 7,
+  "name": "Repair Right Nipple, External Approach",
+  "billing_number": "9P75XP6QJ72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300372"
+  },
+  "id": 8,
+  "name": "Dilation of Right Lacrimal Duct, Open Approach",
+  "billing_number": "3QV4K44RD14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300373"
+  },
+  "id": 9,
+  "name": "Extirpation of Matter from Left Lobe Liver, Open Approach",
+  "billing_number": "9W03M47KF51"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300374"
+  },
+  "id": 10,
+  "name": "Release Left Knee Bursa and Ligament, Open Approach",
+  "billing_number": "3CF0F93UM05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300375"
+  },
+  "id": 11,
+  "name": "Fusion of Right Ankle Joint with Nonaut Sub, Open Approach",
+  "billing_number": "7CG8XR5QE16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300376"
+  },
+  "id": 12,
+  "name": "Select Picture Audiometry Assessment",
+  "billing_number": "7M12JY2RQ36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300377"
+  },
+  "id": 13,
+  "name": "Insertion of Limb Length Dev into L Fibula, Open Approach",
+  "billing_number": "8K74WV5QW15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300378"
+  },
+  "id": 14,
+  "name": "Release Thalamus, Percutaneous Approach",
+  "billing_number": "8NT7RN5RD39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300379"
+  },
+  "id": 15,
+  "name": "Restriction of Right Ureter, Endo",
+  "billing_number": "3T55DY4GD35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230037a"
+  },
+  "id": 16,
+  "name": "Removal of Synth Sub from R Knee Jt, Femoral, Open Approach",
+  "billing_number": "4XW6U64JX48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230037b"
+  },
+  "id": 17,
+  "name": "Extraction of L Low Leg Subcu/Fascia, Perc Approach",
+  "billing_number": "5WJ3Y91JF56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230037c"
+  },
+  "id": 18,
+  "name": "Insertion of VAD into Abd Subcu/Fascia, Open Approach",
+  "billing_number": "5UY3QD7CT13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230037d"
+  },
+  "id": 19,
+  "name": "Replacement of Upper Vein with Nonaut Sub, Open Approach",
+  "billing_number": "3M50A53DC69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230037e"
+  },
+  "id": 20,
+  "name": "Replacement of R Tibia with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "7N03V02EX54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230037f"
+  },
+  "id": 21,
+  "name": "Repair Hepatobil & Pancr in POC with Oth Dev, Perc Approach",
+  "billing_number": "9GH3FQ4JC61"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300380"
+  },
+  "id": 22,
+  "name": "Bypass Duodenum to Jejunum with Nonaut Sub, Endo",
+  "billing_number": "1X77Q07VU46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300381"
+  },
+  "id": 23,
+  "name": "Removal of Drainage Device from Lower Back, Perc Approach",
+  "billing_number": "4E35VD2UR66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300382"
+  },
+  "id": 24,
+  "name": "Inspection of Left Buttock, External Approach",
+  "billing_number": "8W87DY8MY95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300383"
+  },
+  "id": 25,
+  "name": "Drainage of Right Pleura with Drainage Device, Perc Approach",
+  "billing_number": "5R52HK7HC55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300384"
+  },
+  "id": 26,
+  "name": "Reposition R Sup Parathyroid, Perc Endo Approach",
+  "billing_number": "4J22UK4RR31"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300385"
+  },
+  "id": 27,
+  "name": "Release Lumbar Vertebral Disc, Percutaneous Approach",
+  "billing_number": "2TH9A42RQ89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300386"
+  },
+  "id": 28,
+  "name": "Drainage of Penis with Drainage Device, Open Approach",
+  "billing_number": "6DE2W82DT05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300387"
+  },
+  "id": 29,
+  "name": "Replacement of Gastric Artery with Nonaut Sub, Open Approach",
+  "billing_number": "1T29E52CJ71"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300388"
+  },
+  "id": 30,
+  "name": "Removal of Drain Dev from Retroperitoneum, Extern Approach",
+  "billing_number": "1R85Y30DQ73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300389"
+  },
+  "id": 31,
+  "name": "Extirpation of Matter from Cervical Plexus, Open Approach",
+  "billing_number": "4AP2HE6KA46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230038a"
+  },
+  "id": 32,
+  "name": "Revision of Intralum Dev in Tracheobronc Tree, Perc Approach",
+  "billing_number": "1QH6D79GY75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230038b"
+  },
+  "id": 33,
+  "name": "Removal of Drainage Device from Right Breast, Open Approach",
+  "billing_number": "7CQ0WK3CY29"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230038c"
+  },
+  "id": 34,
+  "name": "Dilation of Left Basilic Vein, Percutaneous Approach",
+  "billing_number": "3GH2RW3CV48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230038d"
+  },
+  "id": 35,
+  "name": "Drainage of Left Elbow Region, Percutaneous Approach",
+  "billing_number": "8UY5G20DM45"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230038e"
+  },
+  "id": 36,
+  "name": "Replace of R Acetabulum with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "2VD7EU7AJ00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230038f"
+  },
+  "id": 37,
+  "name": "Supplement Pericardium with Autol Sub, Open Approach",
+  "billing_number": "9RD4FE7UQ87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300390"
+  },
+  "id": 38,
+  "name": "Hyperthermia of Spleen",
+  "billing_number": "8J63DM1YW38"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300391"
+  },
+  "id": 39,
+  "name": "Neuromotor Develop Assess Neuro Low Back/LE w Oth Equip",
+  "billing_number": "5GJ3GP9EU12"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300392"
+  },
+  "id": 40,
+  "name": "Drainage of Transverse Colon, Percutaneous Approach",
+  "billing_number": "4V18E89XG86"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300393"
+  },
+  "id": 41,
+  "name": "Drainage of Left Metatarsal-Tarsal Joint, Perc Endo Approach",
+  "billing_number": "4GD4NX0XN15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300394"
+  },
+  "id": 42,
+  "name": "Resection of Middle Esophagus, Endo",
+  "billing_number": "9TW4W68TH70"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300395"
+  },
+  "id": 43,
+  "name": "Bypass R Femor Vein to Low Vein with Autol Vn, Open Approach",
+  "billing_number": "3XD6D28DW15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300396"
+  },
+  "id": 44,
+  "name": "Revision of Intralum Dev in Urethra, Perc Endo Approach",
+  "billing_number": "1GM4YT7QF79"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300397"
+  },
+  "id": 45,
+  "name": "Drainage of Left Lower Extremity, Open Approach, Diagnostic",
+  "billing_number": "7EG7JG4XN54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300398"
+  },
+  "id": 46,
+  "name": "Insertion of Intralum Dev into L Verteb Vein, Open Approach",
+  "billing_number": "9MQ5WJ5VR67"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300399"
+  },
+  "id": 47,
+  "name": "Reposition Right Diaphragm, Open Approach",
+  "billing_number": "2QA0K15GW29"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230039a"
+  },
+  "id": 48,
+  "name": "Supplement R Low Lobe Bronc w Synth Sub, Perc Endo",
+  "billing_number": "7EN6KR7RQ63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230039b"
+  },
+  "id": 49,
+  "name": "Destruction of Right Mandible, Perc Endo Approach",
+  "billing_number": "9HG7F32CC63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230039c"
+  },
+  "id": 50,
+  "name": "Beam Radiation of Salivary Glands using Neutron Capture",
+  "billing_number": "7MF3T28HD00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230039d"
+  },
+  "id": 51,
+  "name": "Bypass Esophagus to Duodenum with Nonaut Sub, Open Approach",
+  "billing_number": "1CD4PH3MQ50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230039e"
+  },
+  "id": 52,
+  "name": "Extraction of Right Tympanic Membrane, Percutaneous Approach",
+  "billing_number": "1WC9YX2XH08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230039f"
+  },
+  "id": 53,
+  "name": "LDR Brachytherapy of Pelvis Lymph using Iodine 125",
+  "billing_number": "5FC2DG6UE88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a0"
+  },
+  "id": 54,
+  "name": "Revision of Stimulator Lead in Lower Muscle, Extern Approach",
+  "billing_number": "2QA2C01FG84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a1"
+  },
+  "id": 55,
+  "name": "Transfer Median Nerve to Radial Nerve, Perc Endo Approach",
+  "billing_number": "9CK3UW4WU14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a2"
+  },
+  "id": 56,
+  "name": "Supplement Mediastinum with Nonaut Sub, Open Approach",
+  "billing_number": "2J90K15WE36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a3"
+  },
+  "id": 57,
+  "name": "Dilation of 1 Cor Art with 4+ Intralum Dev, Open Approach",
+  "billing_number": "9EG2Q76DX24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a4"
+  },
+  "id": 58,
+  "name": "Transfuse Nonaut Fresh Plasma in Central Art, Perc",
+  "billing_number": "1JP2K01HT52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a5"
+  },
+  "id": 59,
+  "name": "Inspection of Genitourinary Tract, Endo Approach",
+  "billing_number": "4C78N83CE64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a6"
+  },
+  "id": 60,
+  "name": "LDR Brachytherapy of Bladder using Iodine 125",
+  "billing_number": "7AT8QF4QH12"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a7"
+  },
+  "id": 61,
+  "name": "Extirpation of Matter from L Wrist Bursa/Lig, Open Approach",
+  "billing_number": "7CE2GJ1UP21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a8"
+  },
+  "id": 62,
+  "name": "Introduction of Pigment into Eye, External Approach",
+  "billing_number": "7G42EP1PV31"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003a9"
+  },
+  "id": 63,
+  "name": "Plain Radiography of Bi Pulm Vein using H Osm Contrast",
+  "billing_number": "4HN7RD7EA96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003aa"
+  },
+  "id": 64,
+  "name": "Removal of Int Fix from L Pelvic Bone, Extern Approach",
+  "billing_number": "4PC7C05PG17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ab"
+  },
+  "id": 65,
+  "name": "Drainage of Ileum, Percutaneous Approach, Diagnostic",
+  "billing_number": "5MM4P08QM87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ac"
+  },
+  "id": 66,
+  "name": "Revision of Nonaut Sub in Vulva, Open Approach",
+  "billing_number": "3WN3QM7WD03"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ad"
+  },
+  "id": 67,
+  "name": "Plain Radiography of Inferior Vena Cava using Other Contrast",
+  "billing_number": "1F85Q72MP90"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ae"
+  },
+  "id": 68,
+  "name": "Bypass Right Subclavian Artery to Up Arm Vein, Open Approach",
+  "billing_number": "6V47G41PP56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003af"
+  },
+  "id": 69,
+  "name": "Acupuncture using Anesthesia",
+  "billing_number": "9UW0NV2VY63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b0"
+  },
+  "id": 70,
+  "name": "Extirpation of Matter from Right Maxilla, Perc Endo Approach",
+  "billing_number": "9U89X80UP62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b1"
+  },
+  "id": 71,
+  "name": "Replacement of L Up Eyelid with Nonaut Sub, Perc Approach",
+  "billing_number": "9KE5EJ0CE78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b2"
+  },
+  "id": 72,
+  "name": "Bypass Com Bile Duct to R Hep Duc w Intralum Dev, Open",
+  "billing_number": "3XW1WD7HX21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b3"
+  },
+  "id": 73,
+  "name": "Transplantation of Thymus, Syngeneic, Open Approach",
+  "billing_number": "9GK5W70TP00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b4"
+  },
+  "id": 74,
+  "name": "Revision of Infusion Device in R Hip Jt, Extern Approach",
+  "billing_number": "5J18V19DX07"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b5"
+  },
+  "id": 75,
+  "name": "Bypass Left Axillary Artery to Bi Up Leg Art, Open Approach",
+  "billing_number": "3EF0WE8HF29"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b6"
+  },
+  "id": 76,
+  "name": "Control Bleeding in Oral Cav & Throat, Perc Endo Approach",
+  "billing_number": "3RW6KN0VR74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b7"
+  },
+  "id": 77,
+  "name": "Insertion of Infusion Device into Pancreatic Duct, Endo",
+  "billing_number": "8JW0N58HD88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b8"
+  },
+  "id": 78,
+  "name": "Plain Radiography of Left Subclavian Vein using Oth Contrast",
+  "billing_number": "8JT2HT6YQ26"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003b9"
+  },
+  "id": 79,
+  "name": "CT Scan of R Low Extrem Art using H Osm Contrast",
+  "billing_number": "8XD0ED5NK38"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ba"
+  },
+  "id": 80,
+  "name": "HDR Brachytherapy of Thymus using Iodine 125",
+  "billing_number": "5EP6MK7XQ41"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003bb"
+  },
+  "id": 81,
+  "name": "Supplement Right Tarsal with Synth Sub, Open Approach",
+  "billing_number": "3VU9KT9PE85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003bc"
+  },
+  "id": 82,
+  "name": "Stereotactic Other Photon Radiosurgery of Ovary",
+  "billing_number": "1C60HC9PX80"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003bd"
+  },
+  "id": 83,
+  "name": "Fragmentation in Jejunum, Endo",
+  "billing_number": "2HU6PW5TW60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003be"
+  },
+  "id": 84,
+  "name": "Transfer Left Lower Leg Tendon, Open Approach",
+  "billing_number": "8FY5UC4WR62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003bf"
+  },
+  "id": 85,
+  "name": "Removal of Synth Sub from Prostate/Seminal Ves, Via Opening",
+  "billing_number": "6U89EY6RR08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c0"
+  },
+  "id": 86,
+  "name": "Removal of Infusion Device from Ureter, Open Approach",
+  "billing_number": "8E12EC3AE20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c1"
+  },
+  "id": 87,
+  "name": "Destruction of Right Tympanic Membrane, Open Approach",
+  "billing_number": "7PG5JG7TM64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c2"
+  },
+  "id": 88,
+  "name": "Destruction of Right Common Carotid Artery, Perc Approach",
+  "billing_number": "8MF0CE6JT28"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c3"
+  },
+  "id": 89,
+  "name": "Occlusion of Trachea with Intraluminal Device, Open Approach",
+  "billing_number": "9GU9M63XR84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c4"
+  },
+  "id": 90,
+  "name": "Occlusion of Right Axillary Artery, Perc Endo Approach",
+  "billing_number": "5WE2Q58DR18"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c5"
+  },
+  "id": 91,
+  "name": "Drainage of R Abd Bursa/Lig, Perc Endo Approach",
+  "billing_number": "9XA4VD8QW41"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c6"
+  },
+  "id": 92,
+  "name": "Bypass R Com Iliac Art to L Com Ilia w Nonaut Sub, Perc Endo",
+  "billing_number": "4C95NY8GE11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c7"
+  },
+  "id": 93,
+  "name": "Destruction of Tongue, Palate, Pharynx Muscle, Perc Approach",
+  "billing_number": "7QU4WE9XC04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c8"
+  },
+  "id": 94,
+  "name": "Extirpation of Matter from Anus, Open Approach",
+  "billing_number": "7J01QV0VM17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003c9"
+  },
+  "id": 95,
+  "name": "Insertion of Intralum Dev into L Popl Art, Open Approach",
+  "billing_number": "1KA7J40EM17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ca"
+  },
+  "id": 96,
+  "name": "Destruction of Left Maxillary Sinus, Percutaneous Approach",
+  "billing_number": "5NJ0WJ9RQ93"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003cb"
+  },
+  "id": 97,
+  "name": "Drainage of Left External Ear with Drain Dev, Perc Approach",
+  "billing_number": "1GA6KD0UF73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003cc"
+  },
+  "id": 98,
+  "name": "Revision of Int Fix in L Metacarpocarp Jt, Perc Approach",
+  "billing_number": "2V30TK8JY14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003cd"
+  },
+  "id": 99,
+  "name": "Restrict Thor Aorta Desc w Intralum Dev, Perc Endo",
+  "billing_number": "5JT6GM0KA82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ce"
+  },
+  "id": 100,
+  "name": "Supplement Lower Back with Nonaut Sub, Open Approach",
+  "billing_number": "1C98JC8FM20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003cf"
+  },
+  "id": 101,
+  "name": "Transfer Facial Muscle, Percutaneous Endoscopic Approach",
+  "billing_number": "1R21GP3KG94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d0"
+  },
+  "id": 102,
+  "name": "Stereotactic Other Photon Radiosurgery of Uterus",
+  "billing_number": "8A51H97YE24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d1"
+  },
+  "id": 103,
+  "name": "Inspection of Right Inguinal Region, External Approach",
+  "billing_number": "7V16Y36NJ18"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d2"
+  },
+  "id": 104,
+  "name": "Removal of Intraluminal Device from Stomach, Open Approach",
+  "billing_number": "2TH7X40JA20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d3"
+  },
+  "id": 105,
+  "name": "Remove Autol Sub from Low Intest Tract, Perc Endo",
+  "billing_number": "6T42DP5PG92"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d4"
+  },
+  "id": 106,
+  "name": "Beam Radiation of Uterus using Neutrons",
+  "billing_number": "3Q80DD2PK03"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d5"
+  },
+  "id": 107,
+  "name": "Supplement Right Foot Muscle with Synth Sub, Open Approach",
+  "billing_number": "4QN3RK1UW14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d6"
+  },
+  "id": 108,
+  "name": "Excision of Left Finger Phalanx, Perc Endo Approach, Diagn",
+  "billing_number": "9UK4AC6NE36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d7"
+  },
+  "id": 109,
+  "name": "Motor Functn Trmt Musculosk Head, Neck w Oth Equip",
+  "billing_number": "4A28GD9GW30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d8"
+  },
+  "id": 110,
+  "name": "Extirpation of Matter from R Fallopian Tube, Perc Approach",
+  "billing_number": "9J13YP7CE15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003d9"
+  },
+  "id": 111,
+  "name": "Extirpation of Matter from Pericard Cav, Perc Endo Approach",
+  "billing_number": "1QA7XW4UR40"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003da"
+  },
+  "id": 112,
+  "name": "Dilate R Com Iliac Art w Drug-elut Intra, Open",
+  "billing_number": "4Q69AC4FJ11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003db"
+  },
+  "id": 113,
+  "name": "Insertion of Infusion Dev into R Axilla Art, Open Approach",
+  "billing_number": "2TJ5H65HY03"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003dc"
+  },
+  "id": 114,
+  "name": "Drainage of Right Metatarsal, Perc Endo Approach, Diagn",
+  "billing_number": "6AM9Y64RF21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003dd"
+  },
+  "id": 115,
+  "name": "Bypass Cereb Vent to Cereb Cistern w Nonaut Sub, Open",
+  "billing_number": "7MG1K68AJ51"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003de"
+  },
+  "id": 116,
+  "name": "Reposition Products of Conception, Ectopic, Open Approach",
+  "billing_number": "6J11VJ3XK04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003df"
+  },
+  "id": 117,
+  "name": "Restriction of Access Pancr Duct with Intralum Dev, Endo",
+  "billing_number": "3V15N06GQ26"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e0"
+  },
+  "id": 118,
+  "name": "Repair Left Pleura, Open Approach",
+  "billing_number": "1QR4RG3TQ12"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e1"
+  },
+  "id": 119,
+  "name": "Osteopathic Treatment of Abdomen using Fascial Release",
+  "billing_number": "3AT5T71JM07"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e2"
+  },
+  "id": 120,
+  "name": "Drainage of Left Testis, Open Approach, Diagnostic",
+  "billing_number": "4P92GD1FM01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e3"
+  },
+  "id": 121,
+  "name": "Bypass Abd Aorta to L Com Ilia with Synth Sub, Open Approach",
+  "billing_number": "5W25NQ1ED59"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e4"
+  },
+  "id": 122,
+  "name": "Osteopathic Treatment of Up Extrem w H Velocity L Ampl",
+  "billing_number": "4YK0HU4DU52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e5"
+  },
+  "id": 123,
+  "name": "Replacement of R Ethmoid Bone with Nonaut Sub, Perc Approach",
+  "billing_number": "6JD3G52WE62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e6"
+  },
+  "id": 124,
+  "name": "Beam Radiation of Whole Body using Photons >10 MeV",
+  "billing_number": "8U37E16MW66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e7"
+  },
+  "id": 125,
+  "name": "Removal of Drainage Device from Lower Back, Open Approach",
+  "billing_number": "2J98DE7JY57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e8"
+  },
+  "id": 126,
+  "name": "Dilate Splenic Art, Bifurc, w 4 Drug-elut, Perc",
+  "billing_number": "5MG6M81FV80"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003e9"
+  },
+  "id": 127,
+  "name": "Muscles, Resection",
+  "billing_number": "8EN2KY8QQ12"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ea"
+  },
+  "id": 128,
+  "name": "Insert of Intralum Dev into R Renal Vein, Perc Endo Approach",
+  "billing_number": "6AN7FC9GF49"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003eb"
+  },
+  "id": 129,
+  "name": "Fluoroscopy of Spinal Arteries",
+  "billing_number": "6TH7XT9UK33"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ec"
+  },
+  "id": 130,
+  "name": "Revision of Drainage Device in Kidney, Perc Endo Approach",
+  "billing_number": "5NN4MU1HM75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ed"
+  },
+  "id": 131,
+  "name": "Reposition Right Eustachian Tube, Perc Endo Approach",
+  "billing_number": "8FR7NA9QJ15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ee"
+  },
+  "id": 132,
+  "name": "Dilation of R Ext Iliac Art with 3 Drug-elut, Perc Approach",
+  "billing_number": "5G20VC3YC05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ef"
+  },
+  "id": 133,
+  "name": "Introduce Autol Somat Stem Cell in Cran Cav/Brain, Open",
+  "billing_number": "6WY2VF8CD10"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f0"
+  },
+  "id": 134,
+  "name": "Plain Radiography of Thoracic Spine",
+  "billing_number": "2A40DQ4QW83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f1"
+  },
+  "id": 135,
+  "name": "Fluoroscopy L Int Carotid w H Osm Contrast, Laser Intraop",
+  "billing_number": "7WX1N48TN10"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f2"
+  },
+  "id": 136,
+  "name": "Removal of Synth Sub from L Thumb Phalanx, Open Approach",
+  "billing_number": "7U01D94VM33"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f3"
+  },
+  "id": 137,
+  "name": "Bypass R Int Iliac Art to B Femor A w Autol Art, Open",
+  "billing_number": "6FY3QP5UH55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f4"
+  },
+  "id": 138,
+  "name": "Supplement R Ext Carotid with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "3GH8QC7NR97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f5"
+  },
+  "id": 139,
+  "name": "MRI of Cerv-cereb Arch using Oth Contrast",
+  "billing_number": "4UJ3RN9FY68"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f6"
+  },
+  "id": 140,
+  "name": "Dilate of Abd Aorta with 2 Intralum Dev, Perc Endo Approach",
+  "billing_number": "7WU3CG1PA32"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f7"
+  },
+  "id": 141,
+  "name": "Extirpate of Matter from R Shoulder Bursa/Lig, Perc Approach",
+  "billing_number": "3PU3KM9AW31"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f8"
+  },
+  "id": 142,
+  "name": "Bypass Common Bile Duct to Right Hepatic Duct, Open Approach",
+  "billing_number": "1ME9WR8AV48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003f9"
+  },
+  "id": 143,
+  "name": "Introduce Intracirc Anesth in Central Art, Perc",
+  "billing_number": "6W42CD1QT30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003fa"
+  },
+  "id": 144,
+  "name": "Drainage of Uterus with Drainage Device, Perc Approach",
+  "billing_number": "2FR3QJ5TV40"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003fb"
+  },
+  "id": 145,
+  "name": "Revision of Int Fix in L Humeral Shaft, Open Approach",
+  "billing_number": "8DA8UT1UT94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003fc"
+  },
+  "id": 146,
+  "name": "Dilation of Small Intestine with Intralum Dev, Open Approach",
+  "billing_number": "1K92MJ1DU01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003fd"
+  },
+  "id": 147,
+  "name": "Removal of Ext Fix from L Femur Shaft, Open Approach",
+  "billing_number": "7XW5XD4FQ15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003fe"
+  },
+  "id": 148,
+  "name": "Release Left Lower Femur, Percutaneous Endoscopic Approach",
+  "billing_number": "7GV3VP5CX33"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23003ff"
+  },
+  "id": 149,
+  "name": "Ear Protector Attentuat Assess w Occupational Hear Equip",
+  "billing_number": "4PV0C38QU41"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300400"
+  },
+  "id": 150,
+  "name": "Removal of Ext Fix from R Toe Phalanx, Extern Approach",
+  "billing_number": "9C13DE0VA49"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300401"
+  },
+  "id": 151,
+  "name": "Division of Left Metatarsal, Open Approach",
+  "billing_number": "5X06JA7WX57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300402"
+  },
+  "id": 152,
+  "name": "Resection of Bladder Neck, Open Approach",
+  "billing_number": "4J56W09XD50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300403"
+  },
+  "id": 153,
+  "name": "Insertion of Infusion Dev into Inf Mesent Art, Open Approach",
+  "billing_number": "3A34JX3WM60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300404"
+  },
+  "id": 154,
+  "name": "Replace of R Foot Vein with Synth Sub, Perc Endo Approach",
+  "billing_number": "2PX6T74NV20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300405"
+  },
+  "id": 155,
+  "name": "Destruction of Cisterna Chyli, Perc Endo Approach",
+  "billing_number": "8E64FV8UA34"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300406"
+  },
+  "id": 156,
+  "name": "Occlusion of L Main Bronc with Intralum Dev, Perc Approach",
+  "billing_number": "5H87W00QK96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300407"
+  },
+  "id": 157,
+  "name": "Inspection of Left Foot, External Approach",
+  "billing_number": "4TK6GJ5FN58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300408"
+  },
+  "id": 158,
+  "name": "Release Inferior Vena Cava, Open Approach",
+  "billing_number": "9RV6NR1JX75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300409"
+  },
+  "id": 159,
+  "name": "Fusion of R Metatarsophal Jt with Autol Sub, Perc Approach",
+  "billing_number": "9NQ3DG2XJ68"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230040a"
+  },
+  "id": 160,
+  "name": "Excision of Ascending Colon, Percutaneous Approach",
+  "billing_number": "3NE4RV4YD95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230040b"
+  },
+  "id": 161,
+  "name": "Dilation of Sup Mesent Art with 4 Drug-elut, Perc Approach",
+  "billing_number": "5X14HR4QD95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230040c"
+  },
+  "id": 162,
+  "name": "Revision of Autol Sub in Up Art, Open Approach",
+  "billing_number": "9Y12NE4ER65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230040d"
+  },
+  "id": 163,
+  "name": "Occlusion of Left Inguinal Lymphatic, Open Approach",
+  "billing_number": "9MA7QN6TX27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230040e"
+  },
+  "id": 164,
+  "name": "Ultrasonography of Superior Vena Cava, Intravascular",
+  "billing_number": "9CX3RY6KY50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230040f"
+  },
+  "id": 165,
+  "name": "Supplement Tricusp Valve fr R AV Vlv w Nonaut Sub, Perc",
+  "billing_number": "7A86A71PR77"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300410"
+  },
+  "id": 166,
+  "name": "Alteration of Right Breast with Autol Sub, Perc Approach",
+  "billing_number": "1PW6NU4AW42"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300411"
+  },
+  "id": 167,
+  "name": "Transfer Left Abdomen Muscle with Subcu, Perc Endo Approach",
+  "billing_number": "5WV2W35UG61"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300412"
+  },
+  "id": 168,
+  "name": "Release Right External Iliac Vein, Perc Endo Approach",
+  "billing_number": "8C08AT3YF72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300413"
+  },
+  "id": 169,
+  "name": "Revision of Drainage Device in Bone Marrow, Extern Approach",
+  "billing_number": "1C56UU3UH74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300414"
+  },
+  "id": 170,
+  "name": "Bypass 1 Cor Art from Aorta w Nonaut Sub, Perc Endo",
+  "billing_number": "7UN1VN4TH30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300415"
+  },
+  "id": 171,
+  "name": "Dilate of R Axilla Art with Intralum Dev, Perc Endo Approach",
+  "billing_number": "5XU8DQ3KU85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300416"
+  },
+  "id": 172,
+  "name": "Repair Left Pleura, Percutaneous Endoscopic Approach",
+  "billing_number": "6T70T46AE86"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300417"
+  },
+  "id": 173,
+  "name": "Introduction of Anti-inflam into Resp Tract, Via Opening",
+  "billing_number": "8PD7AC4HM28"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300418"
+  },
+  "id": 174,
+  "name": "Destruction of Vagina, Endo",
+  "billing_number": "8WD0A16NF43"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300419"
+  },
+  "id": 175,
+  "name": "Reposition Left Zygomatic Bone, Open Approach",
+  "billing_number": "2ER2NY6XK26"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230041a"
+  },
+  "id": 176,
+  "name": "Destruction of Rectum, Percutaneous Approach",
+  "billing_number": "8DW8XX3WR13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230041b"
+  },
+  "id": 177,
+  "name": "Excision of Anus, Via Natural or Artificial Opening, Diagn",
+  "billing_number": "4D37H19CT53"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230041c"
+  },
+  "id": 178,
+  "name": "Reposition Innominate Artery, Percutaneous Approach",
+  "billing_number": "1VX7PT6RQ52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230041d"
+  },
+  "id": 179,
+  "name": "Introduction of Destructive Agent into Eye, Extern Approach",
+  "billing_number": "2CK2YF0WN46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230041e"
+  },
+  "id": 180,
+  "name": "LDR Brachytherapy of Brain using Palladium 103",
+  "billing_number": "7G24RM5XG60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230041f"
+  },
+  "id": 181,
+  "name": "Control Bleeding in Male Perineum, Open Approach",
+  "billing_number": "8N59QA1VM27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300420"
+  },
+  "id": 182,
+  "name": "Occlusion of Up Art with Extralum Dev, Perc Endo Approach",
+  "billing_number": "9C88G82JW92"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300421"
+  },
+  "id": 183,
+  "name": "Revision of Infusion Device in T-lum Jt, Perc Approach",
+  "billing_number": "2N79YU9MT04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300422"
+  },
+  "id": 184,
+  "name": "Removal of Neurostimulator Lead from Brain, Open Approach",
+  "billing_number": "8WH6NA9WC74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300423"
+  },
+  "id": 185,
+  "name": "Supplement R Metacarpocarp Jt with Synth Sub, Perc Approach",
+  "billing_number": "1E57DU6KC83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300424"
+  },
+  "id": 186,
+  "name": "Alteration of L Knee with Nonaut Sub, Open Approach",
+  "billing_number": "1UN8HV5VC43"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300425"
+  },
+  "id": 187,
+  "name": "Supplement Colic Vein with Autol Sub, Perc Endo Approach",
+  "billing_number": "8J68UA3YN72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300426"
+  },
+  "id": 188,
+  "name": "Revise Autol Sub in L Metacarpocarp Jt, Perc Endo",
+  "billing_number": "3TW0M68WG37"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300427"
+  },
+  "id": 189,
+  "name": "Drainage of R Com Iliac Vein, Perc Endo Approach, Diagn",
+  "billing_number": "1V63Y48HV67"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300428"
+  },
+  "id": 190,
+  "name": "Excision of Upper Back, External Approach",
+  "billing_number": "9QW5HT6XK62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300429"
+  },
+  "id": 191,
+  "name": "Restriction of Right Main Bronchus, Perc Endo Approach",
+  "billing_number": "3QX6RR9DP15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230042a"
+  },
+  "id": 192,
+  "name": "Change Brace on Left Thumb",
+  "billing_number": "6PG5EF0GU92"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230042b"
+  },
+  "id": 193,
+  "name": "Removal of Ext Fix from L Finger Phalanx, Perc Approach",
+  "billing_number": "8RN5G70UE32"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230042c"
+  },
+  "id": 194,
+  "name": "Removal of Zooplastic Tissue from Heart, Perc Approach",
+  "billing_number": "1XQ0FR5HM05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230042d"
+  },
+  "id": 195,
+  "name": "Revision of Monitoring Device in Gallbladder, Open Approach",
+  "billing_number": "4GR3QK2XQ05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230042e"
+  },
+  "id": 196,
+  "name": "Removal of Autol Sub from L Toe Phalanx Jt, Open Approach",
+  "billing_number": "3PF6NM5TU69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230042f"
+  },
+  "id": 197,
+  "name": "Excision of Hard Palate, External Approach",
+  "billing_number": "7HK5JM1TU41"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300430"
+  },
+  "id": 198,
+  "name": "Removal of Spacer from Right Sacroiliac Joint, Perc Approach",
+  "billing_number": "5EK6W91YF27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300431"
+  },
+  "id": 199,
+  "name": "Supplement Descending Colon with Nonaut Sub, Endo",
+  "billing_number": "9TC4M89CT87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300432"
+  },
+  "id": 200,
+  "name": "Supplement Right Knee Joint with Nonaut Sub, Open Approach",
+  "billing_number": "8FT7W68XV72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300433"
+  },
+  "id": 201,
+  "name": "Remove of Nonaut Sub from R Humeral Head, Perc Endo Approach",
+  "billing_number": "7VC6T82RN66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300434"
+  },
+  "id": 202,
+  "name": "Occlusion of Urethra with Extraluminal Device, Perc Approach",
+  "billing_number": "6RY2UD4AU83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300435"
+  },
+  "id": 203,
+  "name": "Extirpation of Matter from Common Bile Duct, Via Opening",
+  "billing_number": "7RR5RA1EN44"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300436"
+  },
+  "id": 204,
+  "name": "Excision of Right Temporal Artery, Perc Approach, Diagn",
+  "billing_number": "3U90GJ0UQ58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300437"
+  },
+  "id": 205,
+  "name": "Removal of Drain Dev from Thyroid Gland, Extern Approach",
+  "billing_number": "3VT4CC5MC19"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300438"
+  },
+  "id": 206,
+  "name": "Removal of Drain Dev from Uterus & Cervix, Perc Approach",
+  "billing_number": "9DM7R53TM46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300439"
+  },
+  "id": 207,
+  "name": "Drainage of Tibial Nerve, Percutaneous Approach, Diagnostic",
+  "billing_number": "4CD7W11VN52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230043a"
+  },
+  "id": 208,
+  "name": "Extirpation of Matter from Left Ear Skin, External Approach",
+  "billing_number": "9VW2JC2FG91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230043b"
+  },
+  "id": 209,
+  "name": "Drainage of L Knee with Drain Dev, Perc Endo Approach",
+  "billing_number": "5J53HT1KC66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230043c"
+  },
+  "id": 210,
+  "name": "Occlusion R Renal Art w Extralum Dev, Perc Endo",
+  "billing_number": "6EU0GP7JE38"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230043d"
+  },
+  "id": 211,
+  "name": "Excision of Uterus, Via Natural or Artificial Opening",
+  "billing_number": "6W38DH1RH49"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230043e"
+  },
+  "id": 212,
+  "name": "Destruction of Left Choroid, Open Approach",
+  "billing_number": "7GV2H33TW06"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230043f"
+  },
+  "id": 213,
+  "name": "Destruction of Vagina, Percutaneous Endoscopic Approach",
+  "billing_number": "8H14J64XD85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300440"
+  },
+  "id": 214,
+  "name": "Excision of Right Axillary Lymphatic, Open Approach, Diagn",
+  "billing_number": "3XG4PJ1HT90"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300441"
+  },
+  "id": 215,
+  "name": "Dilation of Upper Artery with 2 Drug-elut, Open Approach",
+  "billing_number": "3E73YC9VV45"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300442"
+  },
+  "id": 216,
+  "name": "Dilation of Right Renal Vein, Open Approach",
+  "billing_number": "7NJ4FF8MQ53"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300443"
+  },
+  "id": 217,
+  "name": "Removal of Other Device on Left Upper Extremity",
+  "billing_number": "5DE8QM0DM73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300444"
+  },
+  "id": 218,
+  "name": "Revision of Nonaut Sub in R Breast, Open Approach",
+  "billing_number": "1YV1Q40DK52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300445"
+  },
+  "id": 219,
+  "name": "Destruction of Medulla Oblongata, Percutaneous Approach",
+  "billing_number": "4W93Q50TU75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300446"
+  },
+  "id": 220,
+  "name": "Transfuse Nonaut Factor IX in Central Art, Perc",
+  "billing_number": "3V31F07UD15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300447"
+  },
+  "id": 221,
+  "name": "Revision of Nonaut Sub in Sacrum, Perc Endo Approach",
+  "billing_number": "1PH9RE6JJ21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300448"
+  },
+  "id": 222,
+  "name": "Supplement Left Scapula with Nonaut Sub, Perc Approach",
+  "billing_number": "8EY3JC6CR77"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300449"
+  },
+  "id": 223,
+  "name": "Release Left Face Vein, Percutaneous Endoscopic Approach",
+  "billing_number": "7X36PF5PW20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230044a"
+  },
+  "id": 224,
+  "name": "Transfuse Nonaut Frozen Plasma in Periph Art, Open",
+  "billing_number": "1R10GV7RT58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230044b"
+  },
+  "id": 225,
+  "name": "Reposition Right Tibia with Hybrid Ext Fix, Perc Approach",
+  "billing_number": "7M88NN7UC96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230044c"
+  },
+  "id": 226,
+  "name": "Dilation of L Verteb Art with Drug-elut Intra, Perc Approach",
+  "billing_number": "9DH3QE7CY56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230044d"
+  },
+  "id": 227,
+  "name": "Replace of R Metatarsotars Jt with Nonaut Sub, Open Approach",
+  "billing_number": "4X03RT2GG64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230044e"
+  },
+  "id": 228,
+  "name": "Replace R Hepatic Duct w Nonaut Sub, Perc Endo",
+  "billing_number": "4XK3HF5NR90"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230044f"
+  },
+  "id": 229,
+  "name": "Extirpation of Matter from R Pulm Art, Open Approach",
+  "billing_number": "8VK4G47PQ35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300450"
+  },
+  "id": 230,
+  "name": "Reposition Left Hand Bursa and Ligament, Open Approach",
+  "billing_number": "4CF5Y35WF49"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300451"
+  },
+  "id": 231,
+  "name": "Bypass Ileum to Anus with Autologous Tissue Substitute, Endo",
+  "billing_number": "4DC0W22ND21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300452"
+  },
+  "id": 232,
+  "name": "Destruction of Left Upper Extremity Lymphatic, Open Approach",
+  "billing_number": "4VH9AP5CE59"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300453"
+  },
+  "id": 233,
+  "name": "Destruction of Left Breast, Percutaneous Approach",
+  "billing_number": "2JJ0CV7UK91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300454"
+  },
+  "id": 234,
+  "name": "Dilation of Ascending Colon, Perc Endo Approach",
+  "billing_number": "7AU9PE8GK55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300455"
+  },
+  "id": 235,
+  "name": "Resection of Vagina, Open Approach",
+  "billing_number": "3T61Y85TN95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300456"
+  },
+  "id": 236,
+  "name": "Insertion of Infusion Dev into R Verteb Vein, Perc Approach",
+  "billing_number": "1KW0CR6EW51"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300457"
+  },
+  "id": 237,
+  "name": "Revision of Radioact Elem in L Pleural Cav, Open Approach",
+  "billing_number": "9V33X06NT88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300458"
+  },
+  "id": 238,
+  "name": "Destruction of Left Ureter, Endo",
+  "billing_number": "2E03A82WW29"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300459"
+  },
+  "id": 239,
+  "name": "Resection of Right Frontal Sinus, Open Approach",
+  "billing_number": "2J60CN0NT34"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230045a"
+  },
+  "id": 240,
+  "name": "Extraction of Left Vocal Cord, Open Approach",
+  "billing_number": "4WH2RP9QW98"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230045b"
+  },
+  "id": 241,
+  "name": "Reposition Left Lower Femur with Ext Fix, Perc Approach",
+  "billing_number": "1GF1YV0JP33"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230045c"
+  },
+  "id": 242,
+  "name": "Insert of Infusion Dev into R Colic Art, Perc Endo Approach",
+  "billing_number": "5WQ8D78PE88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230045d"
+  },
+  "id": 243,
+  "name": "Release Left Wrist Bursa and Ligament, Perc Endo Approach",
+  "billing_number": "7PH4FQ5QP54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230045e"
+  },
+  "id": 244,
+  "name": "Excision of Right Neck Muscle, Percutaneous Approach, Diagn",
+  "billing_number": "5U05F84UX17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230045f"
+  },
+  "id": 245,
+  "name": "Extirpate matter from Esophagast Junct, Perc Endo",
+  "billing_number": "9VX5Q19WD04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300460"
+  },
+  "id": 246,
+  "name": "Restriction of Access Pancr Duct with Intralum Dev, Endo",
+  "billing_number": "1FN1PH8PP88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300461"
+  },
+  "id": 247,
+  "name": "Revision of Int Fix in R Metatarsal, Open Approach",
+  "billing_number": "6W74DV4GQ43"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300462"
+  },
+  "id": 248,
+  "name": "Bypass Descending Colon to Desc Colon with Nonaut Sub, Endo",
+  "billing_number": "1PX3JR6DA11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300463"
+  },
+  "id": 249,
+  "name": "Fragmentation in Cerebral Ventricle, Open Approach",
+  "billing_number": "5A05FE1PW96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300464"
+  },
+  "id": 250,
+  "name": "Drainage of Left Cephalic Vein, Perc Endo Approach",
+  "billing_number": "3AC0PJ3VG42"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300465"
+  },
+  "id": 251,
+  "name": "LDR Brachytherapy of Prostate using Iodine 125",
+  "billing_number": "6JV2TW7GX91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300466"
+  },
+  "id": 252,
+  "name": "Replace Buttock Subcu/Fascia w Nonaut Sub, Open",
+  "billing_number": "1WC0WN2RN35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300467"
+  },
+  "id": 253,
+  "name": "Excision of Right Axillary Lymphatic, Open Approach",
+  "billing_number": "7WW5EP4KV98"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300468"
+  },
+  "id": 254,
+  "name": "Voice Treatment",
+  "billing_number": "8GR6CQ9QW34"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300469"
+  },
+  "id": 255,
+  "name": "Drainage of L Up Extrem Lymph, Perc Endo Approach, Diagn",
+  "billing_number": "7ME6A68AV88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230046a"
+  },
+  "id": 256,
+  "name": "Excision of Right Nipple, Percutaneous Approach, Diagnostic",
+  "billing_number": "1WX6DH1YM09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230046b"
+  },
+  "id": 257,
+  "name": "Restrict R Great Saphenous w Extralum Dev, Open",
+  "billing_number": "6XR5K91FH66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230046c"
+  },
+  "id": 258,
+  "name": "Occlusion of Upper Artery, Open Approach",
+  "billing_number": "1PK4Y86DQ64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230046d"
+  },
+  "id": 259,
+  "name": "CT Scan of Ear using L Osm Contrast, Unenh, Enhance",
+  "billing_number": "1R95K76EN62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230046e"
+  },
+  "id": 260,
+  "name": "Removal of Infusion Device from Kidney, External Approach",
+  "billing_number": "7N57T13HT25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230046f"
+  },
+  "id": 261,
+  "name": "Dilation of Right Subclavian Artery, Open Approach",
+  "billing_number": "7X80W67GD57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300470"
+  },
+  "id": 262,
+  "name": "Supplement Rectum with Synthetic Substitute, Via Opening",
+  "billing_number": "3WQ1RJ8HQ76"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300471"
+  },
+  "id": 263,
+  "name": "Release Urethra, External Approach",
+  "billing_number": "4R54WP9RN18"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300472"
+  },
+  "id": 264,
+  "name": "Bypass R Subclav Vein to Up Vein w Autol Sub, Open",
+  "billing_number": "2DH4PM0CA60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300473"
+  },
+  "id": 265,
+  "name": "Revision of Autol Sub in Mouth/Throat, Endo",
+  "billing_number": "7QK7G36RX52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300474"
+  },
+  "id": 266,
+  "name": "Inspection of Upper Bone, Percutaneous Endoscopic Approach",
+  "billing_number": "6HJ0QN2UJ48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300475"
+  },
+  "id": 267,
+  "name": "Replacement of Right Tibia with Synth Sub, Perc Approach",
+  "billing_number": "8DW4QV1TX49"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300476"
+  },
+  "id": 268,
+  "name": "Imaging, Heart, Magnetic Resonance Imaging (MRI)",
+  "billing_number": "8DP8GU0PN39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300477"
+  },
+  "id": 269,
+  "name": "Release Femoral Nerve, Percutaneous Endoscopic Approach",
+  "billing_number": "2TY8KM6UA40"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300478"
+  },
+  "id": 270,
+  "name": "Release Right Metatarsal, Percutaneous Endoscopic Approach",
+  "billing_number": "7UG6NY3JK30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300479"
+  },
+  "id": 271,
+  "name": "Reposition Right Upper Femur, External Approach",
+  "billing_number": "2JW9WF8CP10"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230047a"
+  },
+  "id": 272,
+  "name": "Control Bleeding in Oral Cavity and Throat, Extern Approach",
+  "billing_number": "7V81EU3AG81"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230047b"
+  },
+  "id": 273,
+  "name": "Occlusion of Left Face Vein, Open Approach",
+  "billing_number": "8P61RW0DR94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230047c"
+  },
+  "id": 274,
+  "name": "Release Stomach, Pylorus, Open Approach",
+  "billing_number": "5F63MK8GH56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230047d"
+  },
+  "id": 275,
+  "name": "Revision of Radioactive Element in Mouth and Throat, Endo",
+  "billing_number": "5NK5KP9XQ56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230047e"
+  },
+  "id": 276,
+  "name": "Supplement Right Vas Deferens with Nonaut Sub, Open Approach",
+  "billing_number": "8MQ5JW7MY28"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230047f"
+  },
+  "id": 277,
+  "name": "Restrict of L Axilla Lymph with Intralum Dev, Perc Approach",
+  "billing_number": "1VH8NX7NH70"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300480"
+  },
+  "id": 278,
+  "name": "Dilation of L Eustach Tube with Intralum Dev, Via Opening",
+  "billing_number": "2CE1RT3VN52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300481"
+  },
+  "id": 279,
+  "name": "Release Left Greater Saphenous Vein, Perc Endo Approach",
+  "billing_number": "6KD2JN4MN24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300482"
+  },
+  "id": 280,
+  "name": "Dilate Up Art, Bifurc, w 4+ Intralum Dev, Open",
+  "billing_number": "5RD6WT0XW92"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300483"
+  },
+  "id": 281,
+  "name": "Transfer Post Neck Subcu/Fascia, Open Approach",
+  "billing_number": "6T34NX6PG55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300484"
+  },
+  "id": 282,
+  "name": "Drainage of Left Epididymis, Open Approach",
+  "billing_number": "6R05X99EN68"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300485"
+  },
+  "id": 283,
+  "name": "Electroconvulsive Therapy, Unilateral-Single Seizure",
+  "billing_number": "2D85NM9YA58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300486"
+  },
+  "id": 284,
+  "name": "Drainage of R Innom Vein with Drain Dev, Perc Approach",
+  "billing_number": "5NQ2U73PV72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300487"
+  },
+  "id": 285,
+  "name": "CT Scan of Pelvic Art using Intravasc Optic Cohere",
+  "billing_number": "6GT9TY0RM31"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300488"
+  },
+  "id": 286,
+  "name": "Range of Motion and Joint Integrity Assessment of Neuro Body",
+  "billing_number": "7WD1RK7XM48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300489"
+  },
+  "id": 287,
+  "name": "Revision of Other Device in Cranial Cavity, Extern Approach",
+  "billing_number": "6HD8H13CV37"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230048a"
+  },
+  "id": 288,
+  "name": "Removal of Drainage Device from Left Ear, External Approach",
+  "billing_number": "5RU1C96EP22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230048b"
+  },
+  "id": 289,
+  "name": "Ultrasonography of Left Elbow",
+  "billing_number": "9H21D93UA89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230048c"
+  },
+  "id": 290,
+  "name": "Removal of Intralum Dev from Great Vessel, Perc Approach",
+  "billing_number": "8TD5X08QQ52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230048d"
+  },
+  "id": 291,
+  "name": "Packing of Left Upper Extremity using Packing Material",
+  "billing_number": "7FM8GV9FE05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230048e"
+  },
+  "id": 292,
+  "name": "Replacement of Left Kidney Pelvis with Synth Sub, Endo",
+  "billing_number": "7JM2R54QR76"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230048f"
+  },
+  "id": 293,
+  "name": "Revision of Int Fix in L Finger Phalanx Jt, Extern Approach",
+  "billing_number": "2TF6F07RF35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300490"
+  },
+  "id": 294,
+  "name": "Supplement Inferior Vena Cava with Synth Sub, Perc Approach",
+  "billing_number": "2RC0PA2NC84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300491"
+  },
+  "id": 295,
+  "name": "Supplement L Elbow with Autol Sub, Perc Endo Approach",
+  "billing_number": "8P93XY4DG56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300492"
+  },
+  "id": 296,
+  "name": "Destruction of Right Foot Muscle, Open Approach",
+  "billing_number": "8HX3T51ME02"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300493"
+  },
+  "id": 297,
+  "name": "Reposition Right Shoulder Joint, Percutaneous Approach",
+  "billing_number": "4K60A98JJ74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300494"
+  },
+  "id": 298,
+  "name": "Drainage of Sacrococcygeal Joint, Open Approach, Diagnostic",
+  "billing_number": "2HH9P57VK10"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300495"
+  },
+  "id": 299,
+  "name": "Division of Right Tibia, Open Approach",
+  "billing_number": "2WC5NK7XH23"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300496"
+  },
+  "id": 300,
+  "name": "Bypass L Ext Iliac Art to L Femor A w Autol Vn, Perc Endo",
+  "billing_number": "3CU2F06XJ83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300497"
+  },
+  "id": 301,
+  "name": "Reposition Right Wrist Joint with Ext Fix, Extern Approach",
+  "billing_number": "8D09NM0WM73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300498"
+  },
+  "id": 302,
+  "name": "Revision of Synth Sub in Trunk Subcu/Fascia, Extern Approach",
+  "billing_number": "1WG9D00QQ72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300499"
+  },
+  "id": 303,
+  "name": "Drainage of Left Orbit with Drainage Device, Perc Approach",
+  "billing_number": "8F28H31FK87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230049a"
+  },
+  "id": 304,
+  "name": "Fusion of R Shoulder Jt with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "9VU0H72ME65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230049b"
+  },
+  "id": 305,
+  "name": "Drainage of Right Glenoid Cavity, Percutaneous Approach",
+  "billing_number": "1UJ6TU9UW20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230049c"
+  },
+  "id": 306,
+  "name": "Magnetic Resonance Imaging (MRI) of Intracranial Arteries",
+  "billing_number": "2HF5W79CK80"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230049d"
+  },
+  "id": 307,
+  "name": "Excision of Pancreas, Percutaneous Endoscopic Approach",
+  "billing_number": "6HG9UG7NP05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230049e"
+  },
+  "id": 308,
+  "name": "Supplement R Zygomatic Bone w Nonaut Sub, Perc Endo",
+  "billing_number": "8WP8HN6QR93"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230049f"
+  },
+  "id": 309,
+  "name": "Revision of Nonaut Sub in R Sternoclav Jt, Perc Approach",
+  "billing_number": "9W89HC2CQ36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a0"
+  },
+  "id": 310,
+  "name": "Dilate R Temporal Art, Bifurc, w 3 Intralum Dev, Perc",
+  "billing_number": "2GP1XF9GP25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a1"
+  },
+  "id": 311,
+  "name": "Bypass Superior Vena Cava to R Pulm Vn, Open Approach",
+  "billing_number": "5QG4T44RP72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a2"
+  },
+  "id": 312,
+  "name": "Fluoroscopy of Upper Extremity",
+  "billing_number": "8DR8AC4KM84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a3"
+  },
+  "id": 313,
+  "name": "Supplement L Low Lobe Bronc w Synth Sub, Perc Endo",
+  "billing_number": "2GR2QV6HV32"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a4"
+  },
+  "id": 314,
+  "name": "Dilation of Right Femoral Artery, Percutaneous Approach",
+  "billing_number": "2FY6YE7QF71"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a5"
+  },
+  "id": 315,
+  "name": "Compression of Left Upper Leg using Intermit Pressure Dev",
+  "billing_number": "6PG5RM5TQ34"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a6"
+  },
+  "id": 316,
+  "name": "Bypass L Verteb Vein to Up Vein w Autol Sub, Open",
+  "billing_number": "4E05HG1EX73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a7"
+  },
+  "id": 317,
+  "name": "Drainage of Head and Neck Tendon, Perc Endo Approach, Diagn",
+  "billing_number": "8CH8HH2QY00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a8"
+  },
+  "id": 318,
+  "name": "Bypass R Hypogast Vein to Low Vein w Nonaut Sub, Open",
+  "billing_number": "7GX1FP2JQ29"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004a9"
+  },
+  "id": 319,
+  "name": "Measurement of Venous Pulse, Central, Open Approach",
+  "billing_number": "9QD8KU2GU91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004aa"
+  },
+  "id": 320,
+  "name": "Occlusion Hemiazygos Vein w Intralum Dev, Perc",
+  "billing_number": "4KP8JH7EW85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ab"
+  },
+  "id": 321,
+  "name": "Drainage of R Metacarpocarp Jt with Drain Dev, Open Approach",
+  "billing_number": "7MH9W68KW04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ac"
+  },
+  "id": 322,
+  "name": "Insertion of Monitoring Device into Kidney, Perc Approach",
+  "billing_number": "5WJ7DD8HG60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ad"
+  },
+  "id": 323,
+  "name": "Insertion of Intralum Dev into Hepatobil Duct, Perc Approach",
+  "billing_number": "4C66VX1HK90"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ae"
+  },
+  "id": 324,
+  "name": "Revision of Monitoring Device in Trachea, Open Approach",
+  "billing_number": "1R61X56QF03"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004af"
+  },
+  "id": 325,
+  "name": "Revision of Nonaut Sub in Mouth/Throat, Perc Approach",
+  "billing_number": "1G70RF3HR82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b0"
+  },
+  "id": 326,
+  "name": "Low Dose Rate (LDR) Brachytherapy of Liver using Iridium 192",
+  "billing_number": "1MR0NQ0WD15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b1"
+  },
+  "id": 327,
+  "name": "Repair Right Lower Lung Lobe, Perc Endo Approach",
+  "billing_number": "8NU6C58CX62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b2"
+  },
+  "id": 328,
+  "name": "Drainage of Jejunum with Drainage Device, Endo",
+  "billing_number": "6YV9UW7PC11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b3"
+  },
+  "id": 329,
+  "name": "Revise of Autol Sub in Tracheobronc Tree, Perc Endo Approach",
+  "billing_number": "9K75C11NR97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b4"
+  },
+  "id": 330,
+  "name": "CT Scan of L Clavicle using H Osm Contrast",
+  "billing_number": "2PF0FE3GX22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b5"
+  },
+  "id": 331,
+  "name": "Visual Motor Integration Assessment using Other Equipment",
+  "billing_number": "5UT9NJ8RA62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b6"
+  },
+  "id": 332,
+  "name": "Release Right Basilic Vein, Open Approach",
+  "billing_number": "2KD7TN4DA16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b7"
+  },
+  "id": 333,
+  "name": "Dilation of Right Kidney Pelvis, Percutaneous Approach",
+  "billing_number": "9RC2U29VR36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b8"
+  },
+  "id": 334,
+  "name": "Drainage of Phrenic Nerve with Drain Dev, Open Approach",
+  "billing_number": "4K11XJ8MY90"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004b9"
+  },
+  "id": 335,
+  "name": "Drainage of Superior Mesenteric Artery, Perc Approach",
+  "billing_number": "3XQ4W17FE84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ba"
+  },
+  "id": 336,
+  "name": "Supplement R Metatarsophal Jt with Nonaut Sub, Perc Approach",
+  "billing_number": "1HG6FJ4JT35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004bb"
+  },
+  "id": 337,
+  "name": "Replace of R Hepatic Duct with Synth Sub, Perc Endo Approach",
+  "billing_number": "1TA6WX4QN99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004bc"
+  },
+  "id": 338,
+  "name": "Excision of Left Axillary Vein, Open Approach",
+  "billing_number": "2WP4Q79VP13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004bd"
+  },
+  "id": 339,
+  "name": "Revision of Drainage Device in Face, Percutaneous Approach",
+  "billing_number": "7J60H19CQ41"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004be"
+  },
+  "id": 340,
+  "name": "Dilation of Right Lower Lobe Bronchus, Open Approach",
+  "billing_number": "5JR1V23MG73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004bf"
+  },
+  "id": 341,
+  "name": "Fusion of 2-6 C Jt, Ant Appr A Col, Open Approach",
+  "billing_number": "4D50YE5CK98"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c0"
+  },
+  "id": 342,
+  "name": "Extirpate of Matter from L Thorax Muscle, Perc Endo Approach",
+  "billing_number": "6JK4U82YM74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c1"
+  },
+  "id": 343,
+  "name": "Bypass L Fallopian Tube to Uterus w Nonaut Sub, Perc Endo",
+  "billing_number": "7YE5RW0JQ77"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c2"
+  },
+  "id": 344,
+  "name": "Bypass L Com Iliac Art to Celiac Art w Autol Vn, Open",
+  "billing_number": "1K67YX9TW00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c3"
+  },
+  "id": 345,
+  "name": "Supplement Pelvic Subcu/Fascia w Synth Sub, Open",
+  "billing_number": "5JR2TJ2CV20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c4"
+  },
+  "id": 346,
+  "name": "Bypass L Ext Iliac Art to R Int Ilia, Perc Endo Approach",
+  "billing_number": "9JM1V93WW26"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c5"
+  },
+  "id": 347,
+  "name": "Supplement Thor Jt with Synth Sub, Perc Endo Approach",
+  "billing_number": "1HQ5W74TQ23"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c6"
+  },
+  "id": 348,
+  "name": "Extirpate of Matter from L Brach Art, Bifurc, Open Approach",
+  "billing_number": "7W86GG0EN58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c7"
+  },
+  "id": 349,
+  "name": "Supplement Right Radius with Nonaut Sub, Perc Approach",
+  "billing_number": "7HK0QE3HR74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c8"
+  },
+  "id": 350,
+  "name": "Release Multiple Parathyroid Glands, Percutaneous Approach",
+  "billing_number": "6AA8Q91PP98"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004c9"
+  },
+  "id": 351,
+  "name": "Insert of Ring Ext Fix into L Humeral Shaft, Open Approach",
+  "billing_number": "8G86XQ9AV11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ca"
+  },
+  "id": 352,
+  "name": "Drainage of Lesser Omentum, Perc Endo Approach, Diagn",
+  "billing_number": "2PA1H77GG86"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004cb"
+  },
+  "id": 353,
+  "name": "Bursae and Ligaments, Resection",
+  "billing_number": "9K92NT0CU95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004cc"
+  },
+  "id": 354,
+  "name": "LDR Brachytherapy of Spinal Cord using Cesium 137",
+  "billing_number": "7GW5R48QW62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004cd"
+  },
+  "id": 355,
+  "name": "Removal of Nonaut Sub from Scrotum & Tunica, Endo",
+  "billing_number": "4GN8F64QG13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ce"
+  },
+  "id": 356,
+  "name": "Replace R Thorax Tendon w Autol Sub, Perc Endo",
+  "billing_number": "7MC3MY3VF83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004cf"
+  },
+  "id": 357,
+  "name": "Excision of Left Lung, Perc Endo Approach, Diagn",
+  "billing_number": "8NX7KY3PQ97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d0"
+  },
+  "id": 358,
+  "name": "Insertion of Int Fix into R Orbit, Perc Approach",
+  "billing_number": "3TY7M07KC45"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d1"
+  },
+  "id": 359,
+  "name": "Insert Monopln Ext Fix in R Humeral Shaft, Perc",
+  "billing_number": "7Y61HW0EY87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d2"
+  },
+  "id": 360,
+  "name": "Removal of Ext Fix from R Carpal, Open Approach",
+  "billing_number": "6FY2XY0UE14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d3"
+  },
+  "id": 361,
+  "name": "Dilate R Int Carotid, Bifurc, w Drug-elut Intra, Open",
+  "billing_number": "6TM7TH5EF91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d4"
+  },
+  "id": 362,
+  "name": "Removal of Autol Sub from Omentum, Perc Endo Approach",
+  "billing_number": "1PG8HF3JR55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d5"
+  },
+  "id": 363,
+  "name": "Fusion C-thor Jt w Intbd Fus Dev, Post Appr P Col, Perc",
+  "billing_number": "5CW4RU3AH50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d6"
+  },
+  "id": 364,
+  "name": "Bypass L Vas Deferens to R Epidid w Synth Sub, Open",
+  "billing_number": "3AP4VG4GV25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d7"
+  },
+  "id": 365,
+  "name": "Planar Nucl Med Imag of Low Extrem using Oth Radionuclide",
+  "billing_number": "1HE0JR0KA39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d8"
+  },
+  "id": 366,
+  "name": "Bypass 1 Cor Art from Abd Art with Zooplastic, Open Approach",
+  "billing_number": "2VG8EU2QU07"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004d9"
+  },
+  "id": 367,
+  "name": "Destruction of Right Lacrimal Duct, Open Approach",
+  "billing_number": "9EH1E54MC65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004da"
+  },
+  "id": 368,
+  "name": "Supplement R Ethmoid Bone w Nonaut Sub, Perc Endo",
+  "billing_number": "6Q36A02GJ81"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004db"
+  },
+  "id": 369,
+  "name": "Insertion of Intramed Fix into L Radius, Perc Approach",
+  "billing_number": "3HK3C97PJ17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004dc"
+  },
+  "id": 370,
+  "name": "Drainage of L Com Iliac Vein with Drain Dev, Open Approach",
+  "billing_number": "9X05JX4VW64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004dd"
+  },
+  "id": 371,
+  "name": "Transfer Peroneal Nerve to Peroneal Nrv, Perc Endo Approach",
+  "billing_number": "7J42AW6RM97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004de"
+  },
+  "id": 372,
+  "name": "High Dose Rate (HDR) Brachytherapy of Ileum using Cesium 137",
+  "billing_number": "8PQ2E25FM80"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004df"
+  },
+  "id": 373,
+  "name": "Removal of Autol Sub from Cisterna Chyli, Perc Approach",
+  "billing_number": "4ME6M18YM54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e0"
+  },
+  "id": 374,
+  "name": "Occlusion L Cephalic Vein w Intralum Dev, Open",
+  "billing_number": "4HM3HD4AK17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e1"
+  },
+  "id": 375,
+  "name": "Plain Radiography of L Verteb Art using Oth Contrast",
+  "billing_number": "7X18MG5JP96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e2"
+  },
+  "id": 376,
+  "name": "Bypass 4+ Cor Art from L Int Mammary w Synth Sub, Open",
+  "billing_number": "3FR2CP1CK62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e3"
+  },
+  "id": 377,
+  "name": "Destruction of Right Axillary Lymphatic, Perc Endo Approach",
+  "billing_number": "7VR7G46HG80"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e4"
+  },
+  "id": 378,
+  "name": "Excision of Left Axillary Vein, Percutaneous Approach",
+  "billing_number": "8WT5G66KP14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e5"
+  },
+  "id": 379,
+  "name": "Bypass R Kidney Pelvis to Ileocutan w Synth Sub, Perc Endo",
+  "billing_number": "7AD8Y95YA83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e6"
+  },
+  "id": 380,
+  "name": "Restrict Ampulla Vater w Intralum Dev, Perc Endo",
+  "billing_number": "9T82Y16CH16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e7"
+  },
+  "id": 381,
+  "name": "Revision of Zooplastic Tissue in Great Vessel, Perc Approach",
+  "billing_number": "5C53R25NF54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e8"
+  },
+  "id": 382,
+  "name": "Drainage of Left Hepatic Duct, Perc Endo Approach, Diagn",
+  "billing_number": "2NX2Q00RA17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004e9"
+  },
+  "id": 383,
+  "name": "Drainage of Jejunum, Percutaneous Approach, Diagnostic",
+  "billing_number": "7AR9J09XK75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ea"
+  },
+  "id": 384,
+  "name": "Removal of Drainage Device from Penis, Endo",
+  "billing_number": "2NJ0H25FX91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004eb"
+  },
+  "id": 385,
+  "name": "Repair Left Ring Finger, External Approach",
+  "billing_number": "7R65E70AY61"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ec"
+  },
+  "id": 386,
+  "name": "Supplement R Com Iliac Art with Nonaut Sub, Open Approach",
+  "billing_number": "2EV3EC5RQ83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ed"
+  },
+  "id": 387,
+  "name": "Supplement Upper Esophagus with Autol Sub, Endo",
+  "billing_number": "7DM9VH1WW67"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ee"
+  },
+  "id": 388,
+  "name": "Bypass R Popl Art to Low Ex Art w Nonaut Sub, Perc Endo",
+  "billing_number": "1NC2W97DV53"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ef"
+  },
+  "id": 389,
+  "name": "Nuclear Medicine, Lymph & Hemat Sys, Nonimag Nucl Med Prob",
+  "billing_number": "9GH7VX3UG18"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f0"
+  },
+  "id": 390,
+  "name": "Excision of Right Ureter, Percutaneous Approach, Diagnostic",
+  "billing_number": "1H60D17UE30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f1"
+  },
+  "id": 391,
+  "name": "Occlusion L Fallopian Tube w Intralum Dev, Perc",
+  "billing_number": "7A72MG5RQ02"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f2"
+  },
+  "id": 392,
+  "name": "Drainage of Right Radius, Percutaneous Approach, Diagnostic",
+  "billing_number": "4M78CX1VK03"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f3"
+  },
+  "id": 393,
+  "name": "Release Bilateral Fallopian Tubes, Percutaneous Approach",
+  "billing_number": "2EJ0HK5TM70"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f4"
+  },
+  "id": 394,
+  "name": "Extirpate matter from Sacrococcygeal Jt, Perc Endo",
+  "billing_number": "7X16FE2AD73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f5"
+  },
+  "id": 395,
+  "name": "Extirpation of Matter from Sacral Plexus, Perc Approach",
+  "billing_number": "9NU3XQ4UF15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f6"
+  },
+  "id": 396,
+  "name": "Release Left Abdomen Muscle, Perc Endo Approach",
+  "billing_number": "6V39CP7PT79"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f7"
+  },
+  "id": 397,
+  "name": "Beam Radiation of Prostate using Neutrons",
+  "billing_number": "3GN4C90PE72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f8"
+  },
+  "id": 398,
+  "name": "Supplement R Shoulder Bursa/Lig w Synth Sub, Perc Endo",
+  "billing_number": "2A75FK5GV36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004f9"
+  },
+  "id": 399,
+  "name": "Supplement L Int Jugular Vein with Synth Sub, Open Approach",
+  "billing_number": "6JX6XU4GE06"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004fa"
+  },
+  "id": 400,
+  "name": "Destruction of Left Hip Tendon, Open Approach",
+  "billing_number": "5CT6AG8RJ84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004fb"
+  },
+  "id": 401,
+  "name": "Insert of Infusion Dev into Gastric Art, Perc Endo Approach",
+  "billing_number": "1FX3E77HX47"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004fc"
+  },
+  "id": 402,
+  "name": "Insert Intralum Dev in R Int Jugular Vein, Open",
+  "billing_number": "5X20Y68GM42"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004fd"
+  },
+  "id": 403,
+  "name": "Restrict L Com Iliac Vein w Extralum Dev, Perc Endo",
+  "billing_number": "5WY1GU5AT12"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004fe"
+  },
+  "id": 404,
+  "name": "Replacement of Right Ulna with Synth Sub, Open Approach",
+  "billing_number": "5DM6H29CW24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23004ff"
+  },
+  "id": 405,
+  "name": "Phys Rehab & Diag Audiology, Rehab, Cochlear Impl Trmt",
+  "billing_number": "4X89WE1EF48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300500"
+  },
+  "id": 406,
+  "name": "Extirpate matter from L Finger Phalanx Jt, Perc Endo",
+  "billing_number": "8P12GU7ER00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300501"
+  },
+  "id": 407,
+  "name": "Removal of Nonaut Sub from Lum Disc, Perc Endo Approach",
+  "billing_number": "2PW5PD3KC85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300502"
+  },
+  "id": 408,
+  "name": "Inspection of Right Foot, External Approach",
+  "billing_number": "4A32Y46MC04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300503"
+  },
+  "id": 409,
+  "name": "Insertion of Ext Fix into L Humeral Head, Open Approach",
+  "billing_number": "4U83G17QM77"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300504"
+  },
+  "id": 410,
+  "name": "Revision of Nonaut Sub in Low Intest Tract, Via Opening",
+  "billing_number": "2R36QX7DN79"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300505"
+  },
+  "id": 411,
+  "name": "Extirpation of Matter from Pericardium, Perc Approach",
+  "billing_number": "7HW7WM8XN17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300506"
+  },
+  "id": 412,
+  "name": "Insertion of Intralum Dev into Innom Art, Open Approach",
+  "billing_number": "7J81TX7NK96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300507"
+  },
+  "id": 413,
+  "name": "Drainage of Left Upper Femur, Percutaneous Approach",
+  "billing_number": "3H52U84ME64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300508"
+  },
+  "id": 414,
+  "name": "Occlusion of Thorax Lymph with Extralum Dev, Open Approach",
+  "billing_number": "9ER3EU5XE52"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300509"
+  },
+  "id": 415,
+  "name": "Ultrasonography of Abdominal Aorta, Intravascular",
+  "billing_number": "4UR3DQ9JQ95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230050a"
+  },
+  "id": 416,
+  "name": "Inspection of Thoracic Duct, Open Approach",
+  "billing_number": "6RD6NX0XT89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230050b"
+  },
+  "id": 417,
+  "name": "Dilation of L Ant Tib Art with 3 Intralum Dev, Open Approach",
+  "billing_number": "2Q06MD2DX14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230050c"
+  },
+  "id": 418,
+  "name": "Release Left Metatarsal-Tarsal Joint, External Approach",
+  "billing_number": "4Q76YF8VD77"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230050d"
+  },
+  "id": 419,
+  "name": "Drainage of Left Hand Vein, Percutaneous Approach",
+  "billing_number": "4FX5FQ6NH55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230050e"
+  },
+  "id": 420,
+  "name": "Drainage of Left Foot Vein with Drain Dev, Perc Approach",
+  "billing_number": "3D49H83FM00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230050f"
+  },
+  "id": 421,
+  "name": "Excision of Bi Adrenal Gland, Perc Endo Approach, Diagn",
+  "billing_number": "1AA3C68EA99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300510"
+  },
+  "id": 422,
+  "name": "Revision of Spacer in Right Carpal Joint, External Approach",
+  "billing_number": "4Q79RR4CY97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300511"
+  },
+  "id": 423,
+  "name": "Dilation of L Popl Art using Drug Blln, Perc Approach",
+  "billing_number": "3VX1QE5TD13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300512"
+  },
+  "id": 424,
+  "name": "Bypass Sigmoid Colon to Rectum w Autol Sub, Perc Endo",
+  "billing_number": "9WW2A54TT25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300513"
+  },
+  "id": 425,
+  "name": "Extirpation of Matter from Periton Cav, Extern Approach",
+  "billing_number": "4HD4YQ9XE84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300514"
+  },
+  "id": 426,
+  "name": "Extirpate matter from L Acromioclav Jt, Perc Endo",
+  "billing_number": "6T82DH6VK26"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300515"
+  },
+  "id": 427,
+  "name": "Extirpation of Matter from R Neck Lymph, Perc Endo Approach",
+  "billing_number": "9TV1EM5KC13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300516"
+  },
+  "id": 428,
+  "name": "Revise of Synth Sub in L Finger Phalanx, Perc Endo Approach",
+  "billing_number": "6KV2YY8YF89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300517"
+  },
+  "id": 429,
+  "name": "Low Dose Rate (LDR) Brachytherapy of Liver using Cesium 137",
+  "billing_number": "1QD0J46TT47"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300518"
+  },
+  "id": 430,
+  "name": "Removal of Bone Stim from Skull, Perc Endo Approach",
+  "billing_number": "7H21M98JD66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300519"
+  },
+  "id": 431,
+  "name": "Exercise Treatment of Resp Up Back/UE using Prosthesis",
+  "billing_number": "6PE8JX7EM48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230051a"
+  },
+  "id": 432,
+  "name": "Release Left Elbow Joint, External Approach",
+  "billing_number": "7Q41EY4VN04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230051b"
+  },
+  "id": 433,
+  "name": "Dilation of R Brach Art with 2 Intralum Dev, Open Approach",
+  "billing_number": "7N17DT4KR60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230051c"
+  },
+  "id": 434,
+  "name": "Replace of Abd Subcu/Fascia with Autol Sub, Perc Approach",
+  "billing_number": "1V23JH7YN21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230051d"
+  },
+  "id": 435,
+  "name": "Detachment at Left Foot, Complete, Open Approach",
+  "billing_number": "8JM0UH5NY04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230051e"
+  },
+  "id": 436,
+  "name": "Beam Radiation of Peripheral Nerve using Neutron Capture",
+  "billing_number": "9MH4PM6QF11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230051f"
+  },
+  "id": 437,
+  "name": "Drainage of Right Main Bronchus, Open Approach",
+  "billing_number": "4Y67UH4VW22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300520"
+  },
+  "id": 438,
+  "name": "Repair Left Humeral Shaft, Percutaneous Endoscopic Approach",
+  "billing_number": "8KV2KP6RF24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300521"
+  },
+  "id": 439,
+  "name": "Removal of Drain Dev from L Shoulder Jt, Perc Endo Approach",
+  "billing_number": "9RR1JW6AK30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300522"
+  },
+  "id": 440,
+  "name": "Revision of Autol Sub in R Ankle Jt, Open Approach",
+  "billing_number": "5FY9MJ6YC82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300523"
+  },
+  "id": 441,
+  "name": "Fusion of R Sternoclav Jt with Int Fix, Perc Approach",
+  "billing_number": "3YR0AJ8JM27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300524"
+  },
+  "id": 442,
+  "name": "Destruction of Left Clavicle, Open Approach",
+  "billing_number": "9RG9EP3NV13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300525"
+  },
+  "id": 443,
+  "name": "Excision of L Foot Subcu/Fascia, Open Approach",
+  "billing_number": "4R49XT4YX01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300526"
+  },
+  "id": 444,
+  "name": "Insertion of Monopln Ext Fix into L Fibula, Perc Approach",
+  "billing_number": "6R78NP6CR27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300527"
+  },
+  "id": 445,
+  "name": "Repair Lumbar Nerve, Percutaneous Endoscopic Approach",
+  "billing_number": "1X27G16QV14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300528"
+  },
+  "id": 446,
+  "name": "Reposition Azygos Vein, Percutaneous Endoscopic Approach",
+  "billing_number": "5W27V96KH46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300529"
+  },
+  "id": 447,
+  "name": "Revision of Int Fix in R Toe Phalanx, Open Approach",
+  "billing_number": "7MQ2MA4DT24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230052a"
+  },
+  "id": 448,
+  "name": "Fusion of L Shoulder Jt with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "7NQ2K45UP14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230052b"
+  },
+  "id": 449,
+  "name": "Bypass Stomach to Jejunum, Open Approach",
+  "billing_number": "4GA6N80GP39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230052c"
+  },
+  "id": 450,
+  "name": "Repair Left Trunk Muscle, Percutaneous Endoscopic Approach",
+  "billing_number": "8TV0MG9JW01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230052d"
+  },
+  "id": 451,
+  "name": "Radiography of Bi Low Extrem Lymph using H Osm Contrast",
+  "billing_number": "6PD5K60AM71"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230052e"
+  },
+  "id": 452,
+  "name": "Supplement L Axilla Vein with Synth Sub, Perc Endo Approach",
+  "billing_number": "8VJ2XU7HQ67"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230052f"
+  },
+  "id": 453,
+  "name": "Removal of Nonaut Sub from Sternum, Perc Endo Approach",
+  "billing_number": "1PE9DP4RP42"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300530"
+  },
+  "id": 454,
+  "name": "Removal of Radioact Elem from Pancreat Duct, Via Opening",
+  "billing_number": "2M71GW3FK62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300531"
+  },
+  "id": 455,
+  "name": "Insert of Infusion Dev into R Less Saphenous, Open Approach",
+  "billing_number": "6HV7FC0FW51"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300532"
+  },
+  "id": 456,
+  "name": "Release Right Thorax Muscle, Open Approach",
+  "billing_number": "9Q43EW8GF12"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300533"
+  },
+  "id": 457,
+  "name": "Dilate L Ulnar Art, Bifurc, w 4+ Intralum Dev, Perc Endo",
+  "billing_number": "6NY9DH4AU09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300534"
+  },
+  "id": 458,
+  "name": "Monitoring of Arterial Sound, Peripheral, External Approach",
+  "billing_number": "7QT4EX0PG62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300535"
+  },
+  "id": 459,
+  "name": "Removal of Autol Sub from Brain, Perc Approach",
+  "billing_number": "7AC2DF9TY39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300536"
+  },
+  "id": 460,
+  "name": "Extirpation of Matter from L Maxillary Sinus, Perc Approach",
+  "billing_number": "1RK8UD4AM27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300537"
+  },
+  "id": 461,
+  "name": "Revision of Autol Sub in Vagina & Cul-de-sac, Open Approach",
+  "billing_number": "2FN9A12RU93"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300538"
+  },
+  "id": 462,
+  "name": "Supplement L Low Arm Subcu/Fascia w Synth Sub, Perc",
+  "billing_number": "2Q76T63PC11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300539"
+  },
+  "id": 463,
+  "name": "Destruction of L Inf Parathyroid, Perc Endo Approach",
+  "billing_number": "3NF5X30UG62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230053a"
+  },
+  "id": 464,
+  "name": "Dilation of Right Hand Artery, Bifurc, Perc Endo Approach",
+  "billing_number": "3AF2PK1TU78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230053b"
+  },
+  "id": 465,
+  "name": "Revision of Autol Sub in Stomach, Perc Approach",
+  "billing_number": "1CR2K48TP32"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230053c"
+  },
+  "id": 466,
+  "name": "Dilate Inf Mesent Art w 3 Drug-elut, Perc Endo",
+  "billing_number": "8N76EJ3RR51"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230053d"
+  },
+  "id": 467,
+  "name": "Reposition Right Finger Phalangeal Joint, External Approach",
+  "billing_number": "4KT2DH2AT27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230053e"
+  },
+  "id": 468,
+  "name": "Fusion of R Elbow Jt with Autol Sub, Perc Endo Approach",
+  "billing_number": "6CC7D32PW08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230053f"
+  },
+  "id": 469,
+  "name": "Remove Infusion Dev from L Metacarpocarp Jt, Extern",
+  "billing_number": "7H60C69YV73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300540"
+  },
+  "id": 470,
+  "name": "Supplement Lum Jt with Synth Sub, Open Approach",
+  "billing_number": "2TJ0FU1AV78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300541"
+  },
+  "id": 471,
+  "name": "Dilate R Ulnar Art, Bifurc, w Drug-elut Intra, Perc",
+  "billing_number": "7X70JK3QH11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300542"
+  },
+  "id": 472,
+  "name": "Revision of Nonaut Sub in L Hip Jt, Extern Approach",
+  "billing_number": "7UE7PX3VE91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300543"
+  },
+  "id": 473,
+  "name": "Sensorineural Acuity Level Assessment",
+  "billing_number": "1KQ1GH2TW45"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300544"
+  },
+  "id": 474,
+  "name": "Reposition Right Finger Phalanx, Perc Endo Approach",
+  "billing_number": "5Q34T51NC02"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300545"
+  },
+  "id": 475,
+  "name": "Supplement R Fem Art with Nonaut Sub, Open Approach",
+  "billing_number": "9WN4AQ6CR25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300546"
+  },
+  "id": 476,
+  "name": "Division of Head and Neck Tendon, Percutaneous Approach",
+  "billing_number": "3H17KV4UG06"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300547"
+  },
+  "id": 477,
+  "name": "Supplement L Com Iliac Vein with Nonaut Sub, Open Approach",
+  "billing_number": "5UD8CC5VH13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300548"
+  },
+  "id": 478,
+  "name": "Destruction of Left Foot Artery, Perc Endo Approach",
+  "billing_number": "1YW5M67MP78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300549"
+  },
+  "id": 479,
+  "name": "Reposition R Femur Shaft with Intramed Fix, Open Approach",
+  "billing_number": "2M35C14RR45"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230054a"
+  },
+  "id": 480,
+  "name": "Occlusion of LAA with Intralum Dev, Open Approach",
+  "billing_number": "7WR5XF7CM33"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230054b"
+  },
+  "id": 481,
+  "name": "Removal of Infusion Device from Urethra, External Approach",
+  "billing_number": "9G95EH5CP65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230054c"
+  },
+  "id": 482,
+  "name": "Exercise Trmt Musculosk Low Back/LE w Mech Equip",
+  "billing_number": "8D95V32GU99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230054d"
+  },
+  "id": 483,
+  "name": "Destruction of Ventricular Septum, Perc Endo Approach",
+  "billing_number": "6HU4E21NN26"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230054e"
+  },
+  "id": 484,
+  "name": "Dilate Mid Colic Art, Bifurc, w 3 Drug-elut, Open",
+  "billing_number": "7R56HP0VT48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230054f"
+  },
+  "id": 485,
+  "name": "Removal of Drainage Device from Pancreas, Perc Approach",
+  "billing_number": "9H89D06RG69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300550"
+  },
+  "id": 486,
+  "name": "Repair Right Femoral Region, Open Approach",
+  "billing_number": "4F43U79AW76"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300551"
+  },
+  "id": 487,
+  "name": "Plaque Radiation of Ovary",
+  "billing_number": "8AU7X86CM09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300552"
+  },
+  "id": 488,
+  "name": "Revision of Ext Fix in R Metatarsal, Open Approach",
+  "billing_number": "2X64XN0AC04"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300553"
+  },
+  "id": 489,
+  "name": "Extraction of Right Brachial Vein, Percutaneous Approach",
+  "billing_number": "6CH5RR7YQ09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300554"
+  },
+  "id": 490,
+  "name": "Revision of Synth Sub in Up Back, Perc Endo Approach",
+  "billing_number": "3AK1UW9PQ44"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300555"
+  },
+  "id": 491,
+  "name": "Drainage of Cervical Plexus, Open Approach",
+  "billing_number": "1P87UC1EW72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300556"
+  },
+  "id": 492,
+  "name": "Replacement of Right Rib with Autol Sub, Perc Approach",
+  "billing_number": "6D02F86QJ78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300557"
+  },
+  "id": 493,
+  "name": "Excision of Nose, Percutaneous Endoscopic Approach",
+  "billing_number": "1YA5N69WJ57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300558"
+  },
+  "id": 494,
+  "name": "Replacement of L Abd Tendon with Nonaut Sub, Open Approach",
+  "billing_number": "8YQ3EY9AQ56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300559"
+  },
+  "id": 495,
+  "name": "Excision of Trachea, Endo",
+  "billing_number": "4M51EV0DF06"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230055a"
+  },
+  "id": 496,
+  "name": "Remove Infusion Dev from L Metatarsophal Jt, Perc Endo",
+  "billing_number": "4KA1EN7EJ36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230055b"
+  },
+  "id": 497,
+  "name": "Transfer Tongue, Palate, Pharynx Muscle, Perc Endo Approach",
+  "billing_number": "6XX8VH9MG08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230055c"
+  },
+  "id": 498,
+  "name": "Extirpation of Matter from L Neck Muscle, Perc Endo Approach",
+  "billing_number": "8D85P21CN48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230055d"
+  },
+  "id": 499,
+  "name": "Removal of Radioactive Element from Esophagus, Perc Approach",
+  "billing_number": "8T90R90UD88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230055e"
+  },
+  "id": 500,
+  "name": "Supplement R Innom Vein with Synth Sub, Perc Approach",
+  "billing_number": "5HQ5JD4AA21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230055f"
+  },
+  "id": 501,
+  "name": "Excision of Right Abdomen Muscle, Perc Endo Approach",
+  "billing_number": "7A59JE5FU65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300560"
+  },
+  "id": 502,
+  "name": "Lower Bones, Insertion",
+  "billing_number": "4W50FK1PT81"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300561"
+  },
+  "id": 503,
+  "name": "Reposition Right Carpal Joint with Ext Fix, Perc Approach",
+  "billing_number": "1XM3HG4KN82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300562"
+  },
+  "id": 504,
+  "name": "Extirpation of Matter from L Ankle Jt, Perc Endo Approach",
+  "billing_number": "6T47T40PP70"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300563"
+  },
+  "id": 505,
+  "name": "Ultrasonography of Left Heart, Intravascular",
+  "billing_number": "5NT6GC7NG60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300564"
+  },
+  "id": 506,
+  "name": "Removal of Drainage Device from R Up Extrem, Open Approach",
+  "billing_number": "2KT9UE2XE68"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300565"
+  },
+  "id": 507,
+  "name": "Drainage of Right Fallopian Tube, Open Approach",
+  "billing_number": "2X97WN7QH54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300566"
+  },
+  "id": 508,
+  "name": "Dilation of Access Pancr Duct with Intralum Dev, Via Opening",
+  "billing_number": "2J18VV9VK28"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300567"
+  },
+  "id": 509,
+  "name": "Supplement R Main Bronc with Synth Sub, Perc Endo Approach",
+  "billing_number": "8K52W34HP58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300568"
+  },
+  "id": 510,
+  "name": "Extirpation of Matter from Left External Ear, Perc Approach",
+  "billing_number": "8EU3GR7DK36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300569"
+  },
+  "id": 511,
+  "name": "Supplement Face Subcu/Fascia w Autol Sub, Open",
+  "billing_number": "6FD9VM2UX43"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230056a"
+  },
+  "id": 512,
+  "name": "Repair Left Shoulder Bursa and Ligament, Perc Endo Approach",
+  "billing_number": "6TR3T92JY44"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230056b"
+  },
+  "id": 513,
+  "name": "Insertion of Other Device into L Ankle, Perc Approach",
+  "billing_number": "1HK5PX4EV96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230056c"
+  },
+  "id": 514,
+  "name": "Insertion of Infusion Dev into L Verteb Art, Perc Approach",
+  "billing_number": "8A81KE7TC58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230056d"
+  },
+  "id": 515,
+  "name": "Removal of Spacer from Left Hip Joint, Percutaneous Approach",
+  "billing_number": "5DX0DX4QJ70"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230056e"
+  },
+  "id": 516,
+  "name": "Removal of Extralum Dev from Up Vein, Perc Endo Approach",
+  "billing_number": "7F97A21XV09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230056f"
+  },
+  "id": 517,
+  "name": "Destruction of Ileum, Endo",
+  "billing_number": "3Q28UH5EG47"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300570"
+  },
+  "id": 518,
+  "name": "Supplement Right Upper Arm with Synth Sub, Open Approach",
+  "billing_number": "6EG9XV9JT88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300571"
+  },
+  "id": 519,
+  "name": "Fusion of R Finger Phalanx Jt with Ext Fix, Perc Approach",
+  "billing_number": "7QH5RD3AT35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300572"
+  },
+  "id": 520,
+  "name": "Drainage of R Low Lobe Bronc with Drain Dev, Open Approach",
+  "billing_number": "5XJ3E04FK97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300573"
+  },
+  "id": 521,
+  "name": "PET Imag of Myocardium using Fluorine 18",
+  "billing_number": "7J80VH0AV00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300574"
+  },
+  "id": 522,
+  "name": "Revision of Autol Sub in R Metacarpocarp Jt, Perc Approach",
+  "billing_number": "3UW1U87PV99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300575"
+  },
+  "id": 523,
+  "name": "Drainage of Azygos Vein, Perc Endo Approach, Diagn",
+  "billing_number": "7J27XA8HX93"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300576"
+  },
+  "id": 524,
+  "name": "Insertion of Pressure Sens into R Pulm Vein, Open Approach",
+  "billing_number": "4H02UM6JC19"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300577"
+  },
+  "id": 525,
+  "name": "Destruction of L Int Mamm Art, Perc Endo Approach",
+  "billing_number": "2Y50QN8EJ58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300578"
+  },
+  "id": 526,
+  "name": "Remove of Extralum Dev from Vas Deferens, Perc Endo Approach",
+  "billing_number": "9K43P29GG20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300579"
+  },
+  "id": 527,
+  "name": "Supplement Jejunum with Nonaut Sub, Open Approach",
+  "billing_number": "1KJ6GY4EN85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230057a"
+  },
+  "id": 528,
+  "name": "Replacement of Nasal Turbinate with Autol Sub, Via Opening",
+  "billing_number": "9TD2Q90XN83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230057b"
+  },
+  "id": 529,
+  "name": "Removal of Extralum Dev from Up Intest Tract, Open Approach",
+  "billing_number": "8TD4Q61QF63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230057c"
+  },
+  "id": 530,
+  "name": "Dilate L Subclav Art, Bifurc, w 3 Intralum Dev, Open",
+  "billing_number": "9D60C51RJ18"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230057d"
+  },
+  "id": 531,
+  "name": "Removal of Int Fix from R Clavicle, Perc Endo Approach",
+  "billing_number": "4N45P64GY60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230057e"
+  },
+  "id": 532,
+  "name": "Ultrasonography of Ophthalmic Arteries",
+  "billing_number": "1YE7JV8HU23"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230057f"
+  },
+  "id": 533,
+  "name": "CT Scan of L Sternoclav Jt using H Osm Contrast",
+  "billing_number": "3NK7DN6KU75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300580"
+  },
+  "id": 534,
+  "name": "Insertion of Endobronchial Valve into L Main Bronc, Endo",
+  "billing_number": "2U96XJ4JN32"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300581"
+  },
+  "id": 535,
+  "name": "Drainage of Right Rib, Percutaneous Approach",
+  "billing_number": "2XC7HX7QC94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300582"
+  },
+  "id": 536,
+  "name": "Replace of L Verteb Art with Autol Sub, Perc Endo Approach",
+  "billing_number": "4KV1T30DD15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300583"
+  },
+  "id": 537,
+  "name": "Repair Upper Jaw, External Approach",
+  "billing_number": "6JE6RF0AM14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300584"
+  },
+  "id": 538,
+  "name": "Fluoroscopy of Right Renal Vein using High Osmolar Contrast",
+  "billing_number": "6M62NX7GK69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300585"
+  },
+  "id": 539,
+  "name": "Removal of Synthetic Substitute from Up Jaw, Open Approach",
+  "billing_number": "7KX5F64HP53"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300586"
+  },
+  "id": 540,
+  "name": "Supplement Gastric Art with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "2NN6WD9GX68"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300587"
+  },
+  "id": 541,
+  "name": "Restrict L Renal Vein w Extralum Dev, Perc Endo",
+  "billing_number": "3UM3T60RC24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300588"
+  },
+  "id": 542,
+  "name": "Extirpation of Matter from Right Ulnar Artery, Perc Approach",
+  "billing_number": "3GG2RE0RW57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300589"
+  },
+  "id": 543,
+  "name": "Revision of Autol Sub in Pancreat Duct, Via Opening",
+  "billing_number": "5XW2J55KD88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230058a"
+  },
+  "id": 544,
+  "name": "Insert of Monopln Ext Fix into R Humeral Head, Perc Approach",
+  "billing_number": "5U20YP9YG86"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230058b"
+  },
+  "id": 545,
+  "name": "Removal of Infusion Device from Face, External Approach",
+  "billing_number": "1N30N73XX94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230058c"
+  },
+  "id": 546,
+  "name": "Repair Left Neck Muscle, Open Approach",
+  "billing_number": "6KR5N47WE97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230058d"
+  },
+  "id": 547,
+  "name": "Eye, Extraction",
+  "billing_number": "9NP7NJ2PW83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230058e"
+  },
+  "id": 548,
+  "name": "LDR Brachytherapy of Inguinal Lymph using Palladium 103",
+  "billing_number": "6RP7AP1AH19"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230058f"
+  },
+  "id": 549,
+  "name": "Extirpation of Matter from Pelvis Lymph, Perc Endo Approach",
+  "billing_number": "1KE4RA7PH09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300590"
+  },
+  "id": 550,
+  "name": "Bypass L Foot Vein to Low Vein with Autol Art, Open Approach",
+  "billing_number": "7QE9CG4UV79"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300591"
+  },
+  "id": 551,
+  "name": "Drainage of R Axilla Lymph with Drain Dev, Perc Approach",
+  "billing_number": "1RN1WW2UG71"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300592"
+  },
+  "id": 552,
+  "name": "Replacement of Urethra with Synth Sub, Via Opening",
+  "billing_number": "4KT2HH9KV99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300593"
+  },
+  "id": 553,
+  "name": "Revision of Synth Sub in L Metacarpal, Perc Approach",
+  "billing_number": "7QA8VQ2MD19"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300594"
+  },
+  "id": 554,
+  "name": "Repair Cecum, Percutaneous Approach",
+  "billing_number": "4EQ1XW8YR95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300595"
+  },
+  "id": 555,
+  "name": "Excision of Ulnar Nerve, Percutaneous Approach, Diagnostic",
+  "billing_number": "4PD9MT2YV92"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300596"
+  },
+  "id": 556,
+  "name": "Excision of Left Lower Leg, Open Approach, Diagnostic",
+  "billing_number": "4DE7KA1EY83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300597"
+  },
+  "id": 557,
+  "name": "Bypass R Com Iliac Art to Abd Aorta w Autol Vn, Perc Endo",
+  "billing_number": "7P26TH2QW97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300598"
+  },
+  "id": 558,
+  "name": "Division of Left Elbow Bursa and Ligament, Perc Approach",
+  "billing_number": "4H37KR8NT16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300599"
+  },
+  "id": 559,
+  "name": "Beam Radiation of Nasopharynx using Photons 1 - 10 MeV",
+  "billing_number": "8HQ8AF5KP37"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230059a"
+  },
+  "id": 560,
+  "name": "Insert Ext Fix in L Metatarsotars Jt, Perc Endo",
+  "billing_number": "9A54AT0RG91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230059b"
+  },
+  "id": 561,
+  "name": "Computerized Tomography (CT Scan) of Right Pulmonary Artery",
+  "billing_number": "9F78HD5WE95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230059c"
+  },
+  "id": 562,
+  "name": "Division of Left Sphenoid Bone, Open Approach",
+  "billing_number": "3PN2U28QG25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230059d"
+  },
+  "id": 563,
+  "name": "Replacement of R Popl Art with Synth Sub, Perc Endo Approach",
+  "billing_number": "6YV0VM4VU99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230059e"
+  },
+  "id": 564,
+  "name": "Dilation of Gastric Artery with Intralum Dev, Open Approach",
+  "billing_number": "8PC2VY9GG36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230059f"
+  },
+  "id": 565,
+  "name": "Bypass Right Fallopian Tube to Uterus, Open Approach",
+  "billing_number": "5DN7M50AK30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a0"
+  },
+  "id": 566,
+  "name": "Transfer Back Subcu/Fascia w Skin, Subcu, Fascia, Perc",
+  "billing_number": "6EN7YG1YN76"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a1"
+  },
+  "id": 567,
+  "name": "Occlusion of Azygos Vein, Open Approach",
+  "billing_number": "7W42DW5TC97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a2"
+  },
+  "id": 568,
+  "name": "LDR Brachytherapy of Esophagus using Cesium 137",
+  "billing_number": "3XC9TD2KN75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a3"
+  },
+  "id": 569,
+  "name": "Occlusion R Com Iliac Art w Extralum Dev, Perc Endo",
+  "billing_number": "6J30RG2TJ22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a4"
+  },
+  "id": 570,
+  "name": "Restoration of Cardiac Rhythm, Single",
+  "billing_number": "1EP8D02XU11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a5"
+  },
+  "id": 571,
+  "name": "Revision of Nonautologous Tissue Substitute in Trachea, Endo",
+  "billing_number": "5WF9DA4HY66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a6"
+  },
+  "id": 572,
+  "name": "Remove Autol Sub from R Metacarpocarp Jt, Perc Endo",
+  "billing_number": "1VK1VW8YM93"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a7"
+  },
+  "id": 573,
+  "name": "Revision of Monitoring Device in Spinal Canal, Open Approach",
+  "billing_number": "5A05AR8NG89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a8"
+  },
+  "id": 574,
+  "name": "Restrict L Face Vein w Intralum Dev, Perc Endo",
+  "billing_number": "3FX7W79AH87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005a9"
+  },
+  "id": 575,
+  "name": "Excision of Left Nipple, Endo",
+  "billing_number": "4MU3GQ3WW08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005aa"
+  },
+  "id": 576,
+  "name": "Reposition R Up Femur w Monopln Ext Fix, Perc Endo",
+  "billing_number": "3K94EE9WM83"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ab"
+  },
+  "id": 577,
+  "name": "Fusion >7 T Jt w Autol Sub, Post Appr P Col, Perc Endo",
+  "billing_number": "2Y85N02QH39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ac"
+  },
+  "id": 578,
+  "name": "Destruction of Common Bile Duct, Perc Endo Approach",
+  "billing_number": "6MK5WA3RF08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ad"
+  },
+  "id": 579,
+  "name": "Supplement Left Mandible with Synth Sub, Perc Endo Approach",
+  "billing_number": "4P06AH5AK82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ae"
+  },
+  "id": 580,
+  "name": "Release Right Diaphragm, Percutaneous Approach",
+  "billing_number": "8PA5EY6DK37"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005af"
+  },
+  "id": 581,
+  "name": "Drainage of Bladder Neck with Drainage Device, Via Opening",
+  "billing_number": "9M11EM5UR69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b0"
+  },
+  "id": 582,
+  "name": "Release Left Ulnar Artery, Percutaneous Approach",
+  "billing_number": "1TX5A17GM16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b1"
+  },
+  "id": 583,
+  "name": "Division of Left Occipital Bone, Perc Endo Approach",
+  "billing_number": "7NW1W12FQ09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b2"
+  },
+  "id": 584,
+  "name": "Destruction of Large Intestine, Percutaneous Approach",
+  "billing_number": "7XN1RX2TW90"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b3"
+  },
+  "id": 585,
+  "name": "Insertion of Neuro Lead into Spinal Cord, Perc Endo Approach",
+  "billing_number": "1RH0RH5GJ99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b4"
+  },
+  "id": 586,
+  "name": "Dilation of Left Common Iliac Artery, Bifurc, Perc Approach",
+  "billing_number": "4WC6T77CH35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b5"
+  },
+  "id": 587,
+  "name": "Revision of Synth Sub in L Low Extrem, Open Approach",
+  "billing_number": "1DR9TE8UG21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b6"
+  },
+  "id": 588,
+  "name": "Extirpate matter from R Int Iliac Art, Bifurc, Perc",
+  "billing_number": "7KV9PP4HH07"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b7"
+  },
+  "id": 589,
+  "name": "Reposition Left Femoral Artery, Percutaneous Approach",
+  "billing_number": "9QA1WA5DW30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b8"
+  },
+  "id": 590,
+  "name": "Restriction of Right Large Intestine, Perc Endo Approach",
+  "billing_number": "7Q44NW8KD01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005b9"
+  },
+  "id": 591,
+  "name": "Repair Left Upper Lung Lobe, Endo",
+  "billing_number": "3JT5YG8JW32"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ba"
+  },
+  "id": 592,
+  "name": "Replace of R Tympanic Membrane with Synth Sub, Open Approach",
+  "billing_number": "2QF0JM4AJ47"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005bb"
+  },
+  "id": 593,
+  "name": "Bypass L Axilla Art to Low Arm Vein w Nonaut Sub, Open",
+  "billing_number": "4Y08X89TU63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005bc"
+  },
+  "id": 594,
+  "name": "Dilate L Brach Art, Bifurc, w Drug-elut Intra, Perc",
+  "billing_number": "6MK0NR3XN81"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005bd"
+  },
+  "id": 595,
+  "name": "Neuromotor Development Assessment of Neuro Body",
+  "billing_number": "6GD2N09HV14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005be"
+  },
+  "id": 596,
+  "name": "Destruction of Left Abdomen Muscle, Open Approach",
+  "billing_number": "7PX8FY8EJ75"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005bf"
+  },
+  "id": 597,
+  "name": "Drainage of Left Lower Eyelid, Percutaneous Approach, Diagn",
+  "billing_number": "9FA9JU5JG62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c0"
+  },
+  "id": 598,
+  "name": "Extirpation of Matter from Cervical Nerve, Perc Approach",
+  "billing_number": "4DW6H63HU74"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c1"
+  },
+  "id": 599,
+  "name": "Excision of Upper Vein, Open Approach, Diagnostic",
+  "billing_number": "4T69Y10NM63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c2"
+  },
+  "id": 600,
+  "name": "Reposition Thoracic Vertebral Joint, External Approach",
+  "billing_number": "6CW5D79KD30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c3"
+  },
+  "id": 601,
+  "name": "Excision of Left Adrenal Gland, Perc Endo Approach, Diagn",
+  "billing_number": "1U54R45NQ14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c4"
+  },
+  "id": 602,
+  "name": "Dilation of 2 Cor Art with 4 Drug-elut, Perc Endo Approach",
+  "billing_number": "9UP1KF5GR89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c5"
+  },
+  "id": 603,
+  "name": "Removal of Drain Dev from Facial Bone, Perc Endo Approach",
+  "billing_number": "1WM3FJ5GA58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c6"
+  },
+  "id": 604,
+  "name": "Occlusion of Left Femoral Vein, Open Approach",
+  "billing_number": "3P58PX0YU95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c7"
+  },
+  "id": 605,
+  "name": "Excision of L Finger Phalanx Jt, Open Approach, Diagn",
+  "billing_number": "8QP5KH9XH65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c8"
+  },
+  "id": 606,
+  "name": "Fusion of L Sternoclav Jt with Autol Sub, Perc Endo Approach",
+  "billing_number": "5GA5J23HV81"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005c9"
+  },
+  "id": 607,
+  "name": "Supplement Right Renal Vein with Nonaut Sub, Open Approach",
+  "billing_number": "4X87XU0CM21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ca"
+  },
+  "id": 608,
+  "name": "Insert of Infusion Dev into R Inguinal Region, Open Approach",
+  "billing_number": "7HE5AR3YC37"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005cb"
+  },
+  "id": 609,
+  "name": "Supplement Right Tarsal with Autol Sub, Perc Approach",
+  "billing_number": "8J19PV4CX16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005cc"
+  },
+  "id": 610,
+  "name": "Reattachment of Right Hand, Open Approach",
+  "billing_number": "8JN1Y12NK65"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005cd"
+  },
+  "id": 611,
+  "name": "Removal of Monitoring Device from Diaphragm, Perc Approach",
+  "billing_number": "3TK4HX1NF21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ce"
+  },
+  "id": 612,
+  "name": "Revision of Autol Sub in L Wrist Jt, Perc Endo Approach",
+  "billing_number": "3K12TE1FC38"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005cf"
+  },
+  "id": 613,
+  "name": "Bypass Middle Esophagus to Stomach, Perc Endo Approach",
+  "billing_number": "8VA2WP4VG05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d0"
+  },
+  "id": 614,
+  "name": "Bypass Cystic Duct to Common Bile Duct, Open Approach",
+  "billing_number": "1M00D92WD85"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d1"
+  },
+  "id": 615,
+  "name": "Occlusion of Urethra with Intraluminal Device, Via Opening",
+  "billing_number": "8U55C12ED57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d2"
+  },
+  "id": 616,
+  "name": "Detachment at Left Middle Finger, Mid, Open Approach",
+  "billing_number": "1M70A42AD91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d3"
+  },
+  "id": 617,
+  "name": "Fusion >7 T Jt w Nonaut Sub, Ant Appr A Col, Perc",
+  "billing_number": "7HG0K69GY14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d4"
+  },
+  "id": 618,
+  "name": "Drainage of Pons, Open Approach",
+  "billing_number": "8HD3D12HX07"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d5"
+  },
+  "id": 619,
+  "name": "Insertion of Ring Ext Fix into R Tibia, Perc Approach",
+  "billing_number": "2EM6VD0PQ99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d6"
+  },
+  "id": 620,
+  "name": "Alteration of Chest Wall, Percutaneous Approach",
+  "billing_number": "7TK7JM7ME31"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d7"
+  },
+  "id": 621,
+  "name": "Revision of Synth Sub in Scrotum & Tunica, Open Approach",
+  "billing_number": "6KM5X51CH28"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d8"
+  },
+  "id": 622,
+  "name": "Occlusion of Bi Sperm Cord with Intralum Dev, Perc Approach",
+  "billing_number": "7N10KN7YP64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005d9"
+  },
+  "id": 623,
+  "name": "Supplement Left Clavicle with Nonaut Sub, Perc Approach",
+  "billing_number": "5AF8XQ2RT69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005da"
+  },
+  "id": 624,
+  "name": "Reposition Upper Tooth, All, with Ext Fix, Extern Approach",
+  "billing_number": "6HY3J79JD58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005db"
+  },
+  "id": 625,
+  "name": "Insertion of Intraluminal Device into Trachea, Open Approach",
+  "billing_number": "7AN0D18PN13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005dc"
+  },
+  "id": 626,
+  "name": "Excision of Right Foot Vein, Open Approach",
+  "billing_number": "1TM7UD8RU46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005dd"
+  },
+  "id": 627,
+  "name": "Inspection of Left Hand, Percutaneous Endoscopic Approach",
+  "billing_number": "4Y66PP4CQ94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005de"
+  },
+  "id": 628,
+  "name": "Dilate R Foot Art, Bifurc, w 4+ Intralum Dev, Open",
+  "billing_number": "1XM1AF7QG35"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005df"
+  },
+  "id": 629,
+  "name": "Revision of Monitoring Device in Upper Artery, Open Approach",
+  "billing_number": "4MW8KQ6TV99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e0"
+  },
+  "id": 630,
+  "name": "Destruction of Right Tympanic Membrane, Via Opening",
+  "billing_number": "5J07DP5WX82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e1"
+  },
+  "id": 631,
+  "name": "Restrict L Basilic Vein w Extralum Dev, Perc Endo",
+  "billing_number": "9CR1EH8YN15"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e2"
+  },
+  "id": 632,
+  "name": "Insertion of Infusion Device into R Hand Vein, Perc Approach",
+  "billing_number": "2AU5VX5QM88"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e3"
+  },
+  "id": 633,
+  "name": "Bypass R Brach Vein to Up Vein with Autol Vn, Open Approach",
+  "billing_number": "7NG9F94FP47"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e4"
+  },
+  "id": 634,
+  "name": "Excision of L Up Leg Subcu/Fascia, Perc Approach, Diagn",
+  "billing_number": "9YW1MA1KD05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e5"
+  },
+  "id": 635,
+  "name": "Control Bleeding in Right Lower Extremity, Perc Approach",
+  "billing_number": "2NF9F83RU19"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e6"
+  },
+  "id": 636,
+  "name": "Insertion of Radioact Elem into L Wrist, Perc Endo Approach",
+  "billing_number": "9MV5QP4WW68"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e7"
+  },
+  "id": 637,
+  "name": "Dilate L Int Carotid, Bifurc, w Intralum Dev, Perc Endo",
+  "billing_number": "9NF0JH6FW89"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e8"
+  },
+  "id": 638,
+  "name": "Repair Left Hand Artery, Percutaneous Approach",
+  "billing_number": "4PX1TU5VC13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005e9"
+  },
+  "id": 639,
+  "name": "Release Left Foot Tendon, Open Approach",
+  "billing_number": "3V99A26GW62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ea"
+  },
+  "id": 640,
+  "name": "Excision of Left Fallopian Tube, Via Opening",
+  "billing_number": "3X49EU5JV91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005eb"
+  },
+  "id": 641,
+  "name": "Insert Intralum Dev in R Int Iliac Art, Perc Endo",
+  "billing_number": "6YQ1TK8RE13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ec"
+  },
+  "id": 642,
+  "name": "Removal of Autol Sub from R Ear, Open Approach",
+  "billing_number": "9G35XX6FW82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ed"
+  },
+  "id": 643,
+  "name": "Plain Radiography of Right Wrist using Other Contrast",
+  "billing_number": "5E52A34VU55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ee"
+  },
+  "id": 644,
+  "name": "Repair Left Inferior Parathyroid Gland, Open Approach",
+  "billing_number": "4YD5DV7GG11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ef"
+  },
+  "id": 645,
+  "name": "Bypass Duodenum to Transverse Colon, Endo",
+  "billing_number": "6WE9H48MW25"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f0"
+  },
+  "id": 646,
+  "name": "Occlusion of Inf Mesent Art with Intralum Dev, Open Approach",
+  "billing_number": "8EK1ME1JU37"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f1"
+  },
+  "id": 647,
+  "name": "Extirpation of Matter from R Zygomatic Bone, Open Approach",
+  "billing_number": "5E43GC1EJ10"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f2"
+  },
+  "id": 648,
+  "name": "Bypass Descending Colon to Sigmoid Colon, Perc Endo Approach",
+  "billing_number": "9AM4AC9WN56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f3"
+  },
+  "id": 649,
+  "name": "Drainage of Left Hip Joint, Open Approach, Diagnostic",
+  "billing_number": "8NC6PM3EW76"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f4"
+  },
+  "id": 650,
+  "name": "Excision of Spinal Meninges, Perc Endo Approach",
+  "billing_number": "8U71F20UJ02"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f5"
+  },
+  "id": 651,
+  "name": "Alteration of Female Perineum with Synth Sub, Perc Approach",
+  "billing_number": "6UA9H22PA73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f6"
+  },
+  "id": 652,
+  "name": "Repair Endocrine System in POC with Oth Dev, Perc Approach",
+  "billing_number": "9FU3QM6FY84"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f7"
+  },
+  "id": 653,
+  "name": "Release Right Eustachian Tube, Perc Endo Approach",
+  "billing_number": "2HF5HP9VG09"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f8"
+  },
+  "id": 654,
+  "name": "Supplement Abdominal Wall with Autol Sub, Perc Endo Approach",
+  "billing_number": "3G38C04JX51"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005f9"
+  },
+  "id": 655,
+  "name": "Removal of Ext Fix from L Metatarsotars Jt, Extern Approach",
+  "billing_number": "1TG9A49PG77"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005fa"
+  },
+  "id": 656,
+  "name": "Drainage of Perineum Skin, External Approach",
+  "billing_number": "2TN1G23XK48"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005fb"
+  },
+  "id": 657,
+  "name": "Revise Infusion Dev in Prostate/Seminal Ves, Extern",
+  "billing_number": "7T41DA0GK62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005fc"
+  },
+  "id": 658,
+  "name": "Introduce Electrol/Water Bal in Pleural Cav, Perc",
+  "billing_number": "9C43W46FH47"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005fd"
+  },
+  "id": 659,
+  "name": "Excision of Ant Neck Subcu/Fascia, Open Approach",
+  "billing_number": "2F24C72QU62"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005fe"
+  },
+  "id": 660,
+  "name": "Revision of Monitoring Device in Spinal Cord, Open Approach",
+  "billing_number": "9Q84NC6EA96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea23005ff"
+  },
+  "id": 661,
+  "name": "Supplement R Colic Art with Synth Sub, Perc Endo Approach",
+  "billing_number": "3N21X19AX55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300600"
+  },
+  "id": 662,
+  "name": "Replace of L Post Tib Art with Autol Sub, Perc Endo Approach",
+  "billing_number": "6MN4H06HN20"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300601"
+  },
+  "id": 663,
+  "name": "Repair Right Ethmoid Bone, Percutaneous Approach",
+  "billing_number": "5PV6MX9FJ24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300602"
+  },
+  "id": 664,
+  "name": "Release Dura Mater, Open Approach",
+  "billing_number": "5YN5D15UK72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300603"
+  },
+  "id": 665,
+  "name": "Bypass Abd Aorta to Low Ex Art with Autol Art, Open Approach",
+  "billing_number": "7A67ET6PU39"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300604"
+  },
+  "id": 666,
+  "name": "Fluoroscopy of Spinal Art using Oth Contrast, Laser Intraop",
+  "billing_number": "7FU9FA2UX27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300605"
+  },
+  "id": 667,
+  "name": "MRI of Paranasal Sinus using Oth Contrast",
+  "billing_number": "8WN0A79ER23"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300606"
+  },
+  "id": 668,
+  "name": "Excision of Lumbar Plexus, Percutaneous Approach, Diagnostic",
+  "billing_number": "7T73EF3JQ06"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300607"
+  },
+  "id": 669,
+  "name": "Fluoroscopy of L Jugular Vein using Oth Contrast, Guidance",
+  "billing_number": "1HH3HP7QT60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300608"
+  },
+  "id": 670,
+  "name": "Phys Rehab & Diag Audiology, Rehab, Speech Trmt",
+  "billing_number": "8WV3W90JV50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300609"
+  },
+  "id": 671,
+  "name": "Excision of Sacral Sympathetic Nerve, Percutaneous Approach",
+  "billing_number": "9XW5CK0QC54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230060a"
+  },
+  "id": 672,
+  "name": "Release Gallbladder, Percutaneous Endoscopic Approach",
+  "billing_number": "8WH4JU8KV18"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230060b"
+  },
+  "id": 673,
+  "name": "Drainage of Left Humeral Head, Percutaneous Approach, Diagn",
+  "billing_number": "7RG6A83VQ96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230060c"
+  },
+  "id": 674,
+  "name": "Manual Therapy Techniques Treatment of Integu Low Back/LE",
+  "billing_number": "3VP0HA9TU13"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230060d"
+  },
+  "id": 675,
+  "name": "Restriction of Anus with Extralum Dev, Perc Endo Approach",
+  "billing_number": "6U99PM5DK64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230060e"
+  },
+  "id": 676,
+  "name": "Revision of Drainage Device in Head, Perc Endo Approach",
+  "billing_number": "5YK9VX0TH21"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230060f"
+  },
+  "id": 677,
+  "name": "Revision of Drainage Device in L Ankle Jt, Perc Approach",
+  "billing_number": "5Y88J29GM71"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300610"
+  },
+  "id": 678,
+  "name": "Extraction of Cervical Plexus, Perc Endo Approach",
+  "billing_number": "3FX5AD4TT55"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300611"
+  },
+  "id": 679,
+  "name": "Bypass R Hand Vein to Up Vein with Nonaut Sub, Open Approach",
+  "billing_number": "7UF5FD6PR54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300612"
+  },
+  "id": 680,
+  "name": "Sys Nucl Med Therapy of Abd using Oth Radionuclide",
+  "billing_number": "1XP8AG8XE95"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300613"
+  },
+  "id": 681,
+  "name": "Dilate R Foot Art, Bifurc, w 2 Drug-elut, Perc Endo",
+  "billing_number": "2Y78XD2UK78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300614"
+  },
+  "id": 682,
+  "name": "Revision of Int Fix in Thor Vertebra, Perc Approach",
+  "billing_number": "8W80V11AH11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300615"
+  },
+  "id": 683,
+  "name": "Reattachment of Pancreatic Duct, Perc Endo Approach",
+  "billing_number": "1RM6KG3JT54"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300616"
+  },
+  "id": 684,
+  "name": "Bypass L Fem Art to Post Tib Art w Synth Sub, Open",
+  "billing_number": "6H93WP2FW01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300617"
+  },
+  "id": 685,
+  "name": "Drainage of Sigmoid Colon, Endo, Diagn",
+  "billing_number": "6A97HQ6YN11"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300618"
+  },
+  "id": 686,
+  "name": "Revision of Synth Sub in L Tarsal, Extern Approach",
+  "billing_number": "2M96VW4YQ03"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300619"
+  },
+  "id": 687,
+  "name": "Bypass L Cephalic Vein to Up Vein w Autol Art, Open",
+  "billing_number": "1PU9N90PV27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230061a"
+  },
+  "id": 688,
+  "name": "Reposition Right Popliteal Artery, Percutaneous Approach",
+  "billing_number": "9Y57XE9QY58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230061b"
+  },
+  "id": 689,
+  "name": "Fusion 2-6 C Jt w Nonaut Sub, Post Appr A Col, Perc",
+  "billing_number": "9Q56XT6YX33"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230061c"
+  },
+  "id": 690,
+  "name": "Bypass Asc Colon to Trans Colon w Nonaut Sub, Perc Endo",
+  "billing_number": "7G07CH9NP64"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230061d"
+  },
+  "id": 691,
+  "name": "Transplantation of Stomach, Syngeneic, Open Approach",
+  "billing_number": "9E03UR9RK14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230061e"
+  },
+  "id": 692,
+  "name": "Removal of Intraluminal Device from Uterus and Cervix, Endo",
+  "billing_number": "1GU4WH0WV06"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230061f"
+  },
+  "id": 693,
+  "name": "Removal of Synthetic Substitute from Larynx, Extern Approach",
+  "billing_number": "8Y14RR0NF36"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300620"
+  },
+  "id": 694,
+  "name": "Extirpation of Matter from R Peroneal Art, Open Approach",
+  "billing_number": "6W69J70DG00"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300621"
+  },
+  "id": 695,
+  "name": "Ultrasonography of Right Heart using Other Contrast",
+  "billing_number": "2D11TM7WG14"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300622"
+  },
+  "id": 696,
+  "name": "Bypass R Less Saphenous to Low Vein w Autol Art, Perc Endo",
+  "billing_number": "5PH6JW8FF24"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300623"
+  },
+  "id": 697,
+  "name": "Reposition Left Innominate Vein, Percutaneous Approach",
+  "billing_number": "1K18M39NQ50"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300624"
+  },
+  "id": 698,
+  "name": "Drainage of Right Finger Phalangeal Joint, Open Approach",
+  "billing_number": "5XD0R05PA72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300625"
+  },
+  "id": 699,
+  "name": "Occlusion of Celiac Artery with Extralum Dev, Perc Approach",
+  "billing_number": "3JR7U28QK72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300626"
+  },
+  "id": 700,
+  "name": "Division of Right Humeral Shaft, Open Approach",
+  "billing_number": "3WN7ER0UR61"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300627"
+  },
+  "id": 701,
+  "name": "Bypass Abd Aorta to R Com Ilia w Autol Art, Perc Endo",
+  "billing_number": "4KR5HX4UK17"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300628"
+  },
+  "id": 702,
+  "name": "Excision of Right Humeral Shaft, Perc Approach, Diagn",
+  "billing_number": "7WP6QP1XR99"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300629"
+  },
+  "id": 703,
+  "name": "Revision of Synthetic Substitute in L Breast, Perc Approach",
+  "billing_number": "4TK2Y36HV29"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230062a"
+  },
+  "id": 704,
+  "name": "Supplement R Sternoclav Jt with Synth Sub, Perc Approach",
+  "billing_number": "8XE1VU0HP61"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230062b"
+  },
+  "id": 705,
+  "name": "Revision of Synthetic Substitute in R Hip Jt, Open Approach",
+  "billing_number": "8GK4RU6RV22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230062c"
+  },
+  "id": 706,
+  "name": "Destruction of Left Pelvic Bone, Percutaneous Approach",
+  "billing_number": "4NK5AV2AQ46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230062d"
+  },
+  "id": 707,
+  "name": "Bypass Bi Vas Deferens to L Epidid, Perc Endo Approach",
+  "billing_number": "7HP0WR0CK30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230062e"
+  },
+  "id": 708,
+  "name": "Excision of Intracranial Artery, Open Approach",
+  "billing_number": "1HG5JK3TJ19"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230062f"
+  },
+  "id": 709,
+  "name": "Revision of Synth Sub in R Carpal, Extern Approach",
+  "billing_number": "4MV4ND7JP73"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300630"
+  },
+  "id": 710,
+  "name": "Release Right Ankle Tendon, External Approach",
+  "billing_number": "9P33YM5KE01"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300631"
+  },
+  "id": 711,
+  "name": "Ergonomics and Body Mechanics Assessment using Orthosis",
+  "billing_number": "5M89EY7VU23"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300632"
+  },
+  "id": 712,
+  "name": "Alteration of L Up Arm with Autol Sub, Perc Endo Approach",
+  "billing_number": "6MH6XP1XV41"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300633"
+  },
+  "id": 713,
+  "name": "Occlusion Celiac Art w Extralum Dev, Perc Endo",
+  "billing_number": "2J10H49YE60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300634"
+  },
+  "id": 714,
+  "name": "Repair Appendix, Percutaneous Endoscopic Approach",
+  "billing_number": "2WU2PF7PE69"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300635"
+  },
+  "id": 715,
+  "name": "Bypass L Great Saphenous to Low Vein w Nonaut Sub, Open",
+  "billing_number": "9PG2WA9KU67"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300636"
+  },
+  "id": 716,
+  "name": "Revision of Autol Sub in L Up Extrem, Perc Approach",
+  "billing_number": "4MH3RT4YD91"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300637"
+  },
+  "id": 717,
+  "name": "Restriction of R Brach Vein with Extralum Dev, Open Approach",
+  "billing_number": "3WK5DQ0XP67"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300638"
+  },
+  "id": 718,
+  "name": "Repair Chest Wall, Open Approach",
+  "billing_number": "8MD8KG6JN49"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300639"
+  },
+  "id": 719,
+  "name": "Revision of Infusion Device in Male Perineum, Perc Approach",
+  "billing_number": "8F43J03CN66"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230063a"
+  },
+  "id": 720,
+  "name": "Removal of Nonaut Sub from Scrotum & Tunica, Perc Approach",
+  "billing_number": "3YN1PE0FN30"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230063b"
+  },
+  "id": 721,
+  "name": "Removal of Intermittent Pressure Device on Abdominal Wall",
+  "billing_number": "6UK1F45UE16"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230063c"
+  },
+  "id": 722,
+  "name": "Dilation of L Ext Carotid, Bifurc, Perc Approach",
+  "billing_number": "8TX7AQ1GR63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230063d"
+  },
+  "id": 723,
+  "name": "Revision of Nonaut Sub in Larynx, Extern Approach",
+  "billing_number": "3AP9AV8MQ97"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230063e"
+  },
+  "id": 724,
+  "name": "Drainage of Right Axilla with Drainage Device, Open Approach",
+  "billing_number": "8MC6N62YG60"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230063f"
+  },
+  "id": 725,
+  "name": "Destruction of L Sup Parathyroid, Open Approach",
+  "billing_number": "9MH9A42VT86"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300640"
+  },
+  "id": 726,
+  "name": "Extirpation of Matter from L Sphenoid Sinus, Perc Approach",
+  "billing_number": "2G51DR4MM87"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300641"
+  },
+  "id": 727,
+  "name": "Alteration of Right Lower Leg with Autol Sub, Open Approach",
+  "billing_number": "4C95CD5DA61"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300642"
+  },
+  "id": 728,
+  "name": "Excision of Buccal Mucosa, Percutaneous Approach",
+  "billing_number": "3J65V30JN22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300643"
+  },
+  "id": 729,
+  "name": "Excision of Left Shoulder Joint, Percutaneous Approach",
+  "billing_number": "9CR1U67CK05"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300644"
+  },
+  "id": 730,
+  "name": "Plain Radiography of Right Vertebral Artery",
+  "billing_number": "1Y03Q55YN08"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300645"
+  },
+  "id": 731,
+  "name": "Drainage of Left Large Intestine, Endo, Diagn",
+  "billing_number": "5FW3KH5GG58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300646"
+  },
+  "id": 732,
+  "name": "Removal of Int Fix from Sternum, Perc Endo Approach",
+  "billing_number": "1HY9G77EK57"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300647"
+  },
+  "id": 733,
+  "name": "Transfer Perineum Subcu/Fascia, Open Approach",
+  "billing_number": "8A57JE3PT76"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300648"
+  },
+  "id": 734,
+  "name": "Release Right Renal Vein, Percutaneous Approach",
+  "billing_number": "6PW1VV4RW78"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300649"
+  },
+  "id": 735,
+  "name": "Supplement Thor Disc with Nonaut Sub, Perc Approach",
+  "billing_number": "5ET6GG5CY34"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230064a"
+  },
+  "id": 736,
+  "name": "Fusion T-lum Jt w Intbd Fus Dev, Post Appr A Col, Perc Endo",
+  "billing_number": "4UA5HM4TV86"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230064b"
+  },
+  "id": 737,
+  "name": "Revision of Int Fix in L Thumb Phalanx, Perc Endo Approach",
+  "billing_number": "7PN6V69KA27"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230064c"
+  },
+  "id": 738,
+  "name": "Removal of Bone Stim from Nasal Bone, Perc Endo Approach",
+  "billing_number": "5AR3J70NP94"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230064d"
+  },
+  "id": 739,
+  "name": "Occlusion of L Axilla Lymph with Intralum Dev, Perc Approach",
+  "billing_number": "3U69UR4FA46"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230064e"
+  },
+  "id": 740,
+  "name": "Supplement Gastric Art with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "5DE1VP3VG22"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea230064f"
+  },
+  "id": 741,
+  "name": "Occlusion Up Esophag w Intralum Dev, Perc Endo",
+  "billing_number": "5TU4W68AV82"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300650"
+  },
+  "id": 742,
+  "name": "Division of Pudendal Nerve, Open Approach",
+  "billing_number": "6QA4PN2NC45"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300651"
+  },
+  "id": 743,
+  "name": "Extirpation of Matter from R Low Leg Muscle, Perc Approach",
+  "billing_number": "6FF3GG8MQ96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300652"
+  },
+  "id": 744,
+  "name": "Supplement L Wrist Jt with Nonaut Sub, Perc Endo Approach",
+  "billing_number": "8H44GJ3NY31"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300653"
+  },
+  "id": 745,
+  "name": "Removal of Bandage on Left Upper Arm",
+  "billing_number": "1KE4YQ9NU56"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300654"
+  },
+  "id": 746,
+  "name": "Release Hepatic Vein, Percutaneous Approach",
+  "billing_number": "1RY1KM8GN72"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300655"
+  },
+  "id": 747,
+  "name": "Replace of L Hip Jt, Femoral with Synth Sub, Open Approach",
+  "billing_number": "8RN3NG4KA96"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300656"
+  },
+  "id": 748,
+  "name": "Revision of Autol Sub in Up Tendon, Open Approach",
+  "billing_number": "6T29AE4DP63"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300657"
+  },
+  "id": 749,
+  "name": "Drainage of R Low Arm & Wrist Tendon, Open Approach, Diagn",
+  "billing_number": "2TD6JD2GK58"
+},
+{
+  "_id": {
+    "$oid": "65766b337461e79ea2300658"
+  },
+  "id": 750,
+  "name": "Removal of Spacer from C-thor Jt, Perc Endo Approach",
+  "billing_number": "2YV2EE4QG59"
+}]
