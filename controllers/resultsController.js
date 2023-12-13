@@ -2,10 +2,11 @@
 const {
   getProceduresPg,
   getProceduresMongo,
-} = require("../services/total_dal");
+} = require("../services/searchDAL");
 
+// Middleware function that retrieves data from the database based on user selection
 const getData = async (req, res, next) => {
-  const { database, keyword } = req.body;
+  const { database, keyword } = req.query;
 
   try {
     switch (database) {
@@ -17,7 +18,7 @@ const getData = async (req, res, next) => {
         res.data = await getProceduresMongo(keyword);
         break;
 
-      default:
+      case "both":
         res.data = [
           ...(await getProceduresPg(keyword)),
           ...(await getProceduresMongo(keyword)),

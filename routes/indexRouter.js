@@ -6,7 +6,7 @@ const indexRouter = express.Router();
 
 // Set route handlers
 indexRouter.get("^/$|^/home$", (req, res) => {
-  res.send("Hey I am Home Page");
+  res.render("index");
 });
 
 // Export the router to use in other modules

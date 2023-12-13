@@ -12,6 +12,7 @@ const resultsRouter = require("./routes/resultsRouter");
 const notFoundRouter = require("./routes/notFoundRouter");
 
 // Set app
+global.DEBUG = false;
 const app = express();
 app.set("view engine", "ejs");
 

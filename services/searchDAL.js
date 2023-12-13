@@ -61,31 +61,8 @@ async function getProceduresMongo(keyword) {
   }
 }
 
-// Function to retrieve procedures from either database or both if the user selects it. The function uses else/if statements, could also be implemented as a switch statement dependent on style preference.
-const procedureSearch = async function (keyword, database) {
-  if (database === "postgres") {
-    // Implement the Postgres Search.
-    return await getProceduresPg(keyword);
-  } else if (database === "mongodb") {
-    // Implement the MongoDB Search.
-    return await getProceduresMongo(keyword);
-  } else if (database === "both") {
-    // If both databases, implement both searches.
-    const pgResults = await getProceduresPg(keyword);
-    const mongoResults = await getProceduresMongo(keyword);
-
-    // Combine results from both databases
-    const combinedResults = pgResults.concat(mongoResults);
-    return combinedResults;
-  } else {
-    // Handle unsupported database --- Shouldn't be in issue with the way our form is set up.
-    throw new Error("Unsupported database type");
-  }
-};
-
 module.exports = {
   getProceduresPg,
   getProceduresMongo,
   saveSearchQuery,
-  procedureSearch,
 };

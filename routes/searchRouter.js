@@ -6,9 +6,7 @@ const searchRouter = express.Router();
 
 // Set route handlers
 searchRouter.get("/", (req, res) => {
-  // res.render("searchBar");
-  // res.render("search");
-  res.send("hello I am a search page");
+  res.render("search");
 });
 
 // Export the router to use in other modules

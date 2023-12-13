@@ -4,12 +4,14 @@
         <div>
             <form action="/search" method="POST">
                 <b> Returned Procedures: </b></br> 
-                <% if (returnedProcedures.length > 0) { %>
-                    <% returnedProcedures.forEach(procedure => { %>
+                <% if (locals.data && locals.data.length) { %>
+                    <% locals.data.forEach(procedure => { %>
                         <b><%= procedure.name %> <%= procedure.billing_number %></b><br>
                     <% }); %>
+                <% } else { %>
+                    <p>Data not found</p>
                 <% } %>
-                <button><a href="/searchbar">Return to Search menu</a></button>
+                <button><a href="/search">Return to Search menu</a></button>
             </form>
         </div>
     </body>
