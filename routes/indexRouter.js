@@ -3,17 +3,17 @@ const express = require("express");
 const bcrypt = require("bcrypt");
 
 // Set router
-const router = express.Router();
+const indexRouter = express.Router();
 
 // Set route handlers
-router.get("^/$|^/home$", (req, res) => {
+indexRouter.get("^/$|^/home$", (req, res) => {
   res.render("index");
 });
 
 const { getLoginByUsername } = require("../services/pg_loginsDAL");
 
 // log in
-router.post("/", async (req, res) => {
+indexRouter.post("/", async (req, res) => {
   try {
     if (DEBUG) console.log("auth.getLoginByUsername().try");
     let user = await getLoginByUsername(req.body.username);
@@ -36,4 +36,4 @@ router.post("/", async (req, res) => {
 });
 
 // Export the router to use in other modules
-module.exports = router;
+module.exports = indexRouter;
