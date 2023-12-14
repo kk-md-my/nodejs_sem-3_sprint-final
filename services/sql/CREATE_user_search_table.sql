@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS public.user_search
     "timestamp" character varying COLLATE pg_catalog."default" NOT NULL,
     CONSTRAINT user_search_pkey PRIMARY KEY (id),
     CONSTRAINT username FOREIGN KEY (username)
-        REFERENCES public.logins (username) MATCH SIMPLE
+        REFERENCES public."Logins" (username) MATCH SIMPLE
         ON UPDATE NO ACTION
         ON DELETE NO ACTION
 )
