@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kk-md-my/nodejs_sem-3_sprint-final#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "crc": "^4.3.2",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
