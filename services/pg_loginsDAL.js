@@ -21,6 +21,7 @@ async function getLoginByUsername(username) {
     return results.rows[0];
   } catch (error) {
     console.log(error);
+    throw error;
   }
 }
 

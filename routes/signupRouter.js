@@ -3,17 +3,17 @@ const express = require("express");
 const bcrypt = require("bcrypt");
 
 // Set router
-const router = express.Router();
+const signupRouter = express.Router();
 
 // Set route handlers
-router.get("/", (req, res) => {
+signupRouter.get("/", (req, res) => {
   if (DEBUG) console.log("register page");
   res.render("register");
 });
 
-const { addLogin, } = require("../services/pg_loginsDAL");
+const { addLogin } = require("../services/pg_loginsDAL");
 
-router.post("/", async (req, res) => {
+signupRouter.post("/", async (req, res) => {
   try {
     const hashedPassword = await bcrypt.hash(req.body.password, 10);
     if (req.body.username && req.body.password) {
@@ -39,4 +39,4 @@ router.post("/", async (req, res) => {
 });
 
 // Export the router to use in other modules
-module.exports = router;
+module.exports = signupRouter;
