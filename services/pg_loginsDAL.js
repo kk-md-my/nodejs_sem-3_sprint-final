@@ -2,15 +2,28 @@ const dal = require("./p.db.js");
 
 async function addLogin(name, hashedPassword) {
   let SQL = `INSERT INTO public."Logins"(username, password)
-      VALUES ($1, $2);`;
+      VALUES ($1, $2)
+      RETURNING id;`;
+
   try {
     let results = await dal.query(SQL, [name, hashedPassword]);
-    return results.rows[0].id;
+    if (results.rows.length > 0) {
+      // Check if any rows were returned
+      return results.rows[0].id;
+    } else {
+      // Handle the case where no rows were returned
+      console.error("No rows returned after insertion");
+      return null;
+    }
   } catch (error) {
-    if (error.code === "23505")
-      // duplicate username
+    if (error.code === "23505") {
+      // Duplicate username
       return error.code;
-    console.log(error);
+    } else {
+      // Handle other errors
+      console.error(error);
+      throw error; // Re-throw the error for further handling or logging
+    }
   }
 }
 

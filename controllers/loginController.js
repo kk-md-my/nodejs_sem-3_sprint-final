@@ -12,21 +12,25 @@ const checkCredentials = async (req, res, next) => {
     if (DEBUG) console.log("auth.getLoginByUsername().try");
     let user = await getLoginByUsername(username);
 
-    if (user === undefined) {
+    // Check if user is undefined or null
+    if (!user) {
       req.app.locals.status = "Incorrect user name was entered.";
-      res.status(401);
+      return res.status(401).send({ error: "Incorrect user name" });
     }
 
-    if (await bcrypt.compare(password, user.password)) {
+    // Use bcrypt.compare to compare passwords
+    const passwordMatch = await bcrypt.compare(password, user.password);
+
+    if (passwordMatch) {
       req.app.locals.user = user;
       req.app.locals.status = "Logged in as " + user.username;
     } else {
       req.app.locals.status = "Incorrect password was entered.";
-      res.status(401);
+      return res.status(401).send({ error: "Incorrect password" });
     }
   } catch (error) {
-    res.status(503);
-    console.log(error);
+    console.error(error);
+    return res.status(503).send({ error: "Service unavailable" });
   }
 
   next();
