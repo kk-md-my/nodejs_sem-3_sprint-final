@@ -33,6 +33,7 @@ const checkCredentials = async (req, res, next) => {
   next();
 };
 
+// Export functions/variables to use in other modules
 module.exports = {
   checkCredentials,
 };
