@@ -1,4 +1,3 @@
-// const dal = require("./p.db.js");
 const dal = require("./pg_db_auth");
 
 async function addLogin(name, hashedPassword) {
