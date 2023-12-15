@@ -7,8 +7,12 @@ const signupRouter = express.Router();
 
 // Set route handlers
 signupRouter.get("/", (req, res) => {
-  if (DEBUG) console.log("register page");
-  res.render("register");
+  if (DEBUG) console.log("signup page");
+  const dataObj = {
+    title: "Sign up",
+  };
+
+  res.render("signup", dataObj);
 });
 
 const { addLogin } = require("../services/pg_loginsDAL");
@@ -34,7 +38,7 @@ signupRouter.post("/", async (req, res) => {
     }
   } catch (error) {
     console.log(error);
-    res.render("503");
+    res.status(503).render("503", { title: "503" });
   }
 });
 

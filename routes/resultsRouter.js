@@ -2,16 +2,27 @@
 const express = require("express");
 
 // Import required functions/variables from custom modules
-const { getData } = require("../controllers/resultsController");
+const { getData, saveSearch } = require("../controllers/resultsController");
 
 // Set router
 const resultsRouter = express.Router();
 
 // Set route handlers
-resultsRouter.get("/", getData, (req, res) => {
-  const { data } = res;
+resultsRouter.get("/", saveSearch, getData, (req, res) => {
+  const { data, statusCode } = res;
 
-  res.render("results", { data });
+  if (statusCode == 200) {
+    res.render("results", {
+      title: "Results",
+      data,
+    });
+  } else if (statusCode == 401) {
+    res.redirect("/login");
+  } else if (statusCode == 503) {
+    res.render("503", {
+      title: "503",
+    });
+  }
 });
 
 // Export the router to use in other modules

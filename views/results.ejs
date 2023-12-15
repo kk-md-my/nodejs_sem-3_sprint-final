@@ -1,18 +1,20 @@
+<!DOCTYPE html>
 <html lang="en">
-    <%- include('./partials/nav.ejs') %>
+    <%- include("./partials/head.ejs", { title: locals.title }) %>
     <body>
+        <%- include('./partials/nav.ejs') %>
         <div>
-            <form action="/search" method="POST">
-                <b> Returned Procedures: </b></br> 
-                <% if (locals.data && locals.data.length) { %>
-                    <% locals.data.forEach(procedure => { %>
-                        <b><%= procedure.name %> <%= procedure.billing_number %></b><br>
+            <% if (Array.isArray(locals.data) && locals.data.length) { %>
+                <h1>Returned Procedures: <span><%= locals.data.length %></span></h1>
+                <ul>
+                    <% locals.data.forEach(({ name, billing_number }) => { %>
+                        <li><span><%= name %></span> <span><%= billing_number %></span></li>
                     <% }); %>
-                <% } else { %>
-                    <p>Data not found</p>
-                <% } %>
-                <button><a href="/search">Return to Search menu</a></button>
-            </form>
+                </ul>
+            <% } else { %>
+                <h1>Data not found</h1>
+            <% } %>
+            <a href="/search">Return to Search menu</a>
         </div>
     </body>
 </html>
