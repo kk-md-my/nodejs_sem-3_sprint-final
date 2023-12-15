@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html lang="en">
-    <%- include('./partials/nav.ejs') %>
+    <%- include("./partials/head.ejs", { title: locals.title }) %>
     <body>
+        <%- include('./partials/nav.ejs') %>
         <div>
             <form action="/results" method="get" target="_blank">
                 <b>Procedure Search</b></br> 
