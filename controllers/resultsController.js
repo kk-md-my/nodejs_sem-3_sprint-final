@@ -2,11 +2,13 @@
 const {
   getProceduresPg,
   getProceduresMongo,
+  saveSearchQuery,
 } = require("../services/searchDAL");
 
 // Middleware function that retrieves data from the database based on user selection
 const getData = async (req, res, next) => {
   const { database, keyword } = req.query;
+  saveSearchQuery(keyword, req.app.locals.username);
 
   try {
     switch (database) {

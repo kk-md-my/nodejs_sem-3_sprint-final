@@ -2,7 +2,7 @@
 const express = require("express");
 
 // Import required functions/variables from custom modules
-const { getData } = require("../controllers/resultsController");
+const { getData, saveSearch } = require("../controllers/resultsController");
 
 // Set router
 const resultsRouter = express.Router();

@@ -17,6 +17,7 @@ const checkCredentials = async (req, res, next) => {
     if (user && (await bcrypt.compare(password, user.password))) {
       req.app.locals.isAuth = true;
       req.app.locals.authStatus = "Logged in as " + user.username;
+      req.app.locals.username = user.username;
     } else if (user) {
       res.locals.status = "Incorrect password was entered.";
       res.status(401);
