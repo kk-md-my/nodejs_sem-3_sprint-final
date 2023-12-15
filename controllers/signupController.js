@@ -25,7 +25,7 @@ const addUser = async (req, res, next) => {
     console.log(error);
 
     if (error.code === "23505") {
-      res.locals.status = "Username already exists, please try another.";
+      res.locals.status = `Username "${username}" already exists, please try another.`;
       res.status(409);
     } else {
       res.status(503);
