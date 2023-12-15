@@ -4,17 +4,17 @@
     <body>
         <%- include('./partials/nav.ejs') %>
         <div>
-            <form action="/search" method="POST">
-                <b> Returned Procedures: </b></br> 
-                <% if (locals.data && locals.data.length) { %>
-                    <% locals.data.forEach(procedure => { %>
-                        <b><%= procedure.name %> <%= procedure.billing_number %></b><br>
+            <h1>Returned Procedures:</h1>
+            <% if (Array.isArray(locals.data) && locals.data.length) { %>
+                <ul>
+                    <% locals.data.forEach(({ name, billing_number }) => { %>
+                        <li><span><%= name %></span> <span><%= billing_number %></span></li>
                     <% }); %>
-                <% } else { %>
-                    <p>Data not found</p>
-                <% } %>
-                <button><a href="/search">Return to Search menu</a></button>
-            </form>
+                </ul>
+            <% } else { %>
+                <p>Data not found</p>
+            <% } %>
+            <a href="/search">Return to Search menu</a>
         </div>
     </body>
 </html>
