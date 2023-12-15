@@ -11,22 +11,17 @@ const loginRouter = express.Router();
 loginRouter
   .route("/")
   .get((req, res) => {
-    const dataObj = {
-      title: "Login",
-    };
-
-    res.render("login", dataObj);
+    res.render("login", { title: "Login" });
   })
   .post(checkCredentials, (req, res) => {
-    const {
-      statusCode,
-      locals: { status },
-    } = res;
+    const { statusCode } = res;
+    const { status } = res.locals;
 
     if (statusCode == 200) {
       res.redirect("/search");
     } else if (statusCode == 401) {
       res.render("login", {
+        title: "Login",
         status,
       });
     } else if (statusCode == 503) {

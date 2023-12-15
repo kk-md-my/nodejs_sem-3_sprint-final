@@ -1,46 +1,34 @@
 // Import external packages
 const express = require("express");
-const bcrypt = require("bcrypt");
+
+// Import required functions/variables from custom modules
+const { addUser } = require("../controllers/signupController");
 
 // Set router
 const signupRouter = express.Router();
 
 // Set route handlers
-signupRouter.get("/", (req, res) => {
-  if (DEBUG) console.log("signup page");
-  const dataObj = {
-    title: "Sign up",
-  };
+signupRouter
+  .route("/")
+  .get((req, res) => {
+    if (DEBUG) console.log("signup page");
 
-  res.render("signup", dataObj);
-});
+    res.render("signup", { title: "Sign up" });
+  })
+  .post(addUser, (req, res) => {
+    const { statusCode } = res;
+    const { status } = res.locals;
 
-const { addLogin } = require("../services/pg_loginsDAL");
+    let view = "signup";
+    let dataObj = { title: "Sign up", status };
 
-signupRouter.post("/", async (req, res) => {
-  try {
-    const hashedPassword = await bcrypt.hash(req.body.password, 10);
-    if (req.body.username && req.body.password) {
-      var result = await addLogin(req.body.username, hashedPassword);
-      if (DEBUG) console.log("result: " + result);
-      if (result === "23505") {
-        if (DEBUG) console.log("Username already exists, please try another.");
-        req.app.locals.status = "Username already exists, please try another.";
-        res.redirect("/signup");
-      } else {
-        req.app.locals.status = "New account created, please login.";
-        res.redirect("/");
-      }
-    } else {
-      if (DEBUG) console.log("Not enough form fields completed.");
-      req.app.locals.status = "Not enough form fields completed.";
-      res.redirect("/");
+    if (statusCode == 503) {
+      view = "503";
+      dataObj = { title: "503" };
     }
-  } catch (error) {
-    console.log(error);
-    res.status(503).render("503", { title: "503" });
-  }
-});
+
+    res.render(view, dataObj);
+  });
 
 // Export the router to use in other modules
 module.exports = signupRouter;

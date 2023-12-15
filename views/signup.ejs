@@ -12,6 +12,9 @@
         <input type="password" id="password" name="password" required /><br />
         <button type="submit" value="Sign Up">Sign Up</button>
       </form>
+      <% if (locals.status) { %>
+        <span><%- `* ${locals.status}` %></span>
+      <% } %>
     </div>
   </body>
 </html>
