@@ -4,15 +4,15 @@
     <body>
         <%- include('./partials/nav.ejs') %>
         <div>
-            <h1>Returned Procedures:</h1>
             <% if (Array.isArray(locals.data) && locals.data.length) { %>
+                <h1>Returned Procedures: <span><%= locals.data.length %></span></h1>
                 <ul>
                     <% locals.data.forEach(({ name, billing_number }) => { %>
                         <li><span><%= name %></span> <span><%= billing_number %></span></li>
                     <% }); %>
                 </ul>
             <% } else { %>
-                <p>Data not found</p>
+                <h1>Data not found</h1>
             <% } %>
             <a href="/search">Return to Search menu</a>
         </div>
