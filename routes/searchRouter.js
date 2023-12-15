@@ -16,7 +16,7 @@ searchRouter.get("/", (req, res) => {
   if (isAuth) {
     res.render("search", dataObj);
   } else {
-    res.status(401).render("401", { title: 401 });
+    res.status(401).render("401", { title: "401" });
   }
 });
 

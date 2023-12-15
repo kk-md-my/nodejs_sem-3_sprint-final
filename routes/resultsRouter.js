@@ -8,15 +8,21 @@ const { getData, saveSearch } = require("../controllers/resultsController");
 const resultsRouter = express.Router();
 
 // Set route handlers
-resultsRouter.get("/", getData, (req, res) => {
-  const { data } = res;
+resultsRouter.get("/", saveSearch, getData, (req, res) => {
+  const { data, statusCode } = res;
 
-  const dataObj = {
-    title: "Results",
-    data,
-  };
-
-  res.render("results", dataObj);
+  if (statusCode == 200) {
+    res.render("results", {
+      title: "Results",
+      data,
+    });
+  } else if (statusCode == 401) {
+    res.redirect("/login");
+  } else if (statusCode == 503) {
+    res.render("503", {
+      title: "503",
+    });
+  }
 });
 
 // Export the router to use in other modules
