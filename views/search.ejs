@@ -3,14 +3,17 @@
     <%- include("./partials/head.ejs", { title: locals.title }) %>
     <body>
         <%- include('./partials/nav.ejs') %>
+        <h1>Procedure Search Portal</h1>
+        <% if (locals.authStatus) { %>
+            <span><%= `* ${locals.authStatus}` %></span>
+        <% } %>
         <div>
             <form action="/results" method="get">
-                <b>Procedure Search</b></br> 
-                </br><label>Search:</label></br>
+                <br><label>Search:</label><br>
                 <label>Procedure Name:
                     <input type="text" id="keyword" name="keyword" value="<%= locals.keyword %>" required>
                 </label>
-                </br>
+                <br>
                 <label>Database Type:
                     <select id="database" name="database">
                         <option value="postgres">PostgreSQL</option>
@@ -18,7 +21,7 @@
                         <option value="both">Both</option>
                     </select>
                 </label>
-                </br>
+                <br>
                 <button type="submit">Search</button>
             </form>
         </div>
