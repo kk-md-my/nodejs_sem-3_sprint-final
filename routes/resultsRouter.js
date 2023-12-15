@@ -11,7 +11,12 @@ const resultsRouter = express.Router();
 resultsRouter.get("/", getData, (req, res) => {
   const { data } = res;
 
-  res.render("results", { data });
+  const dataObj = {
+    title: "Results",
+    data,
+  };
+
+  res.render("results", dataObj);
 });
 
 // Export the router to use in other modules
