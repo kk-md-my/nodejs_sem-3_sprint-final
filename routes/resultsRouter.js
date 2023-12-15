@@ -8,7 +8,7 @@ const { getData, saveSearch } = require("../controllers/resultsController");
 const resultsRouter = express.Router();
 
 // Set route handlers
-resultsRouter.get("/", getData, (req, res) => {
+resultsRouter.get("/", getData, saveSearch, (req, res) => {
   const { data } = res;
 
   const dataObj = {

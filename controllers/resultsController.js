@@ -8,8 +8,6 @@ const {
 // Middleware function that retrieves data from the database based on user selection
 const getData = async (req, res, next) => {
   const { database, keyword } = req.query;
-  saveSearchQuery(keyword, req.app.locals.username);
-
   try {
     switch (database) {
       case "postgres":
@@ -35,6 +33,17 @@ const getData = async (req, res, next) => {
   next();
 };
 
+const saveSearch = async (req, res, next) => {
+  try {
+    const { keyword } = req.query;
+    await saveSearchQuery(keyword, req.app.locals.username);
+  } catch (err) {
+    console.log(err.message);
+  }
+  next();
+};
+
 module.exports = {
   getData,
+  saveSearch,
 };
