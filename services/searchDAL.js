@@ -65,6 +65,7 @@ async function getProceduresMongo(keyword) {
     return results;
   } catch (err) {
     console.log(err.message);
+    throw err;
   } finally {
     mongoDal.close();
   }
