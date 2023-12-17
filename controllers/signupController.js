@@ -6,6 +6,8 @@ const { addLogin } = require("../services/pg_loginsDAL");
 
 // Middleware function adds new user to the database
 const addUser = async (req, res, next) => {
+  DEBUG && console.log("addUser()");
+
   const { username, password } = req.body;
 
   try {
@@ -18,13 +20,15 @@ const addUser = async (req, res, next) => {
         "New account created, <a href='/login'>please login.</a>";
       res.status(201);
     } else {
+      DEBUG && console.log("addUser(). Not enough form fields completed.");
+
       res.locals.status = "Not enough form fields completed.";
       res.status(400);
     }
-  } catch (error) {
-    console.log(error);
+  } catch (err) {
+    console.log(err.message);
 
-    if (error.code === "23505") {
+    if (err.code === "23505") {
       res.locals.status = `Username "${username}" already exists, please try another.`;
       res.status(409);
     } else {

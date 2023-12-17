@@ -11,11 +11,13 @@ const signupRouter = express.Router();
 signupRouter
   .route("/")
   .get((req, res) => {
-    if (DEBUG) console.log("signup page");
+    DEBUG && console.log("signupRouter. GET: /signup");
 
     res.render("signup", { title: "Sign up" });
   })
   .post(addUser, (req, res) => {
+    DEBUG && console.log("signupRouter. POST: /signup");
+
     const { statusCode } = res;
     const { status } = res.locals;
 
@@ -23,6 +25,8 @@ signupRouter
     let dataObj = { title: "Sign up", status };
 
     if (statusCode == 503) {
+      DEBUG && console.log("signupRouter. 503");
+
       view = "503";
       dataObj = { title: "503" };
     }

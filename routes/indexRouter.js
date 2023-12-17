@@ -6,6 +6,8 @@ const indexRouter = express.Router();
 
 // Set route handlers
 indexRouter.get("^/$|^/home$", (req, res) => {
+  DEBUG && console.log("indexRouter. GET: /home");
+
   const dataObj = {
     title: "Home",
   };
