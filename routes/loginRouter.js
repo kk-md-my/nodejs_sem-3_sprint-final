@@ -11,9 +11,13 @@ const loginRouter = express.Router();
 loginRouter
   .route("/")
   .get((req, res) => {
+    DEBUG && console.log("loginRouter. GET: /login");
+
     res.render("login", { title: "Login" });
   })
   .post(checkCredentials, (req, res) => {
+    DEBUG && console.log("loginRouter. POST: /login");
+
     const { statusCode } = res;
     const { status } = res.locals;
 
@@ -25,6 +29,8 @@ loginRouter
         status,
       });
     } else if (statusCode == 503) {
+      DEBUG && console.log("loginRouter. 503");
+
       res.render("503", {
         title: "503",
       });

@@ -6,6 +6,8 @@ const notFoundRouter = express.Router();
 
 // Set route handlers
 notFoundRouter.get("*", (req, res) => {
+  DEBUG && console.log("notFoundRouter. GET: 404");
+
   res.status(404).render("404", { title: "404" });
 });
 

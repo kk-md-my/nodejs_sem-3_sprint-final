@@ -1,6 +1,8 @@
 const dal = require("./pg_db_auth");
 
 async function addLogin(name, hashedPassword) {
+  DEBUG && console.log("DAL: addLogin()");
+
   let SQL = `INSERT INTO public."Logins"(username, password)
       VALUES ($1, $2);`;
   try {
@@ -12,6 +14,8 @@ async function addLogin(name, hashedPassword) {
 }
 
 async function getLoginByUsername(username) {
+  DEBUG && console.log("DAL: getLoginByUsername()");
+
   let SQL = `SELECT * FROM public."Logins" WHERE username = $1`;
   try {
     let results = await dal.query(SQL, [username]);
