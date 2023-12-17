@@ -16,7 +16,7 @@ const checkCredentials = async (req, res, next) => {
 
     if (user && (await bcrypt.compare(password, user.password))) {
       DEBUG &&
-        console.log(`checkCredentials(). Logged in as:\n${user} (${password})`);
+        console.log(`checkCredentials(). Logged in as: ${user} (${password})`);
 
       req.app.locals.isAuth = true;
       req.app.locals.authStatus = "Logged in as " + user.username;
