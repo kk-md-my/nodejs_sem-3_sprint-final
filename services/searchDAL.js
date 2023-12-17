@@ -58,8 +58,8 @@ async function getProceduresMongo(keyword) {
       .find(query);
     const results = await cursor.toArray();
     return results;
-  } catch (error) {
-    console.log(error);
+  } catch (err) {
+    console.log(err.message);
   } finally {
     mongoDal.close();
   }

@@ -21,10 +21,10 @@ const addUser = async (req, res, next) => {
       res.locals.status = "Not enough form fields completed.";
       res.status(400);
     }
-  } catch (error) {
-    console.log(error);
+  } catch (err) {
+    console.log(err.message);
 
-    if (error.code === "23505") {
+    if (err.code === "23505") {
       res.locals.status = `Username "${username}" already exists, please try another.`;
       res.status(409);
     } else {

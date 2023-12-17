@@ -5,9 +5,9 @@ async function addLogin(name, hashedPassword) {
       VALUES ($1, $2);`;
   try {
     await dal.query(SQL, [name, hashedPassword]);
-  } catch (error) {
-    console.log(error);
-    throw error;
+  } catch (err) {
+    console.log(err.message);
+    throw err;
   }
 }
 
@@ -16,9 +16,9 @@ async function getLoginByUsername(username) {
   try {
     let results = await dal.query(SQL, [username]);
     return results.rows[0];
-  } catch (error) {
-    console.log(error);
-    throw error;
+  } catch (err) {
+    console.log(err.message);
+    throw err;
   }
 }
 

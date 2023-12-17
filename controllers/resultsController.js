@@ -17,7 +17,7 @@ const saveSearch = async (req, res, next) => {
     await saveSearchQuery(keyword, username);
   } catch (err) {
     res.status(username ? 503 : 401);
-    console.log(err);
+    console.log(err.message);
   }
 
   next();

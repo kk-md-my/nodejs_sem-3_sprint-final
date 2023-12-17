@@ -25,9 +25,9 @@ const checkCredentials = async (req, res, next) => {
       res.locals.status = "Incorrect user name was entered.";
       res.status(401);
     }
-  } catch (error) {
+  } catch (err) {
     res.status(503);
-    console.log(error);
+    console.log(err.message);
   }
 
   next();
