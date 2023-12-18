@@ -16,8 +16,6 @@ global.DEBUG = true;
 const app = express();
 app.set("view engine", "ejs");
 
-const PORT = process.env.PORT || 3000;
-
 // Set middleware
 app.use(express.static("public"));
 app.use(methodOverride("_method"));
@@ -31,8 +29,5 @@ app.use("/search", searchRouter);
 app.use("/results", resultsRouter);
 app.use("/*", notFoundRouter);
 
-// Start the server
-app.listen(
-  PORT,
-  console.log(`Server is listening on port: ${PORT}, http://localhost:${PORT}`)
-);
+// Export the app to use in other modules
+module.exports = app;
