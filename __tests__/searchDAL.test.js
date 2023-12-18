@@ -1,9 +1,9 @@
 // Test File for the searchDAL.js file.
 
 // Import statements.
-const pgDal = require("./pg_db_auth"); // Access to the Postgres DB.
-const mongoDal = require("./mongo_db_auth"); // Access to the MongoDB.
-const searchDAL = require("./searchDAL"); // Access to the searchDAL.js file.
+const pgDal = require("../services/pg_db_auth"); // Access to the Postgres DB.
+const mongoDal = require("../services/mongo_db_auth"); // Access to the MongoDB.
+const searchDAL = require("../services/searchDAL"); // Access to the searchDAL.js file.
 global.DEBUG = true; // Set DEBUG to true.
 
 // Require statements.

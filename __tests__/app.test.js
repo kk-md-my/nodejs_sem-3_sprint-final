@@ -38,8 +38,8 @@ describe("Check whether app routes respond with the correct status codes", () =>
 
 describe("Check 'login' form", () => {
   const path = "/login";
-  const username = "test";
-  const password = "test";
+  const username = "test_user";
+  const password = "test_user";
 
   it("should respond with a status code of '303' and redirect to '/search' for valid credentials.", async () => {
     const res = await request(app)
@@ -50,11 +50,11 @@ describe("Check 'login' form", () => {
     expect(res.headers.location).toBe("/search");
   });
 
-  it("should respond with a status code of '401' for invalid credentials", async () => {
+  it("should respond with a status code of '400' for invalid credentials", async () => {
     const res = await request(app)
       .post(path)
       .send(`username=invalidUsername&password=invalidPassword`);
 
-    expect(res.status).toBe(401);
+    expect(res.status).toBe(400);
   });
 });
