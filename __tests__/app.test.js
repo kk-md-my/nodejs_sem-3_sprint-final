@@ -1,6 +1,10 @@
+// Import external packages
 const request = require("supertest");
+
+// Import required functions/variables from custom modules
 const app = require("../app");
 
+// Set test cases
 describe("Check whether app routes respond with the correct status codes", () => {
   describe("Check pages that do not require login", () => {
     it("should respond with a status code of '200'", async () => {
