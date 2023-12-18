@@ -1,0 +1,37 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14pt;
+  color: #333;
+  background-color: white;
+  margin-top: 30px;
+  border-radius: 20px;
+  box-shadow: #00000067 1px 1px 10px 2px;
+  padding: 60px;
+  max-width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  /* text-decoration: none; */
+  color: black;
+}
+
+nav a {
+  font-size: 14pt;
+  font-weight: bold;
+  color: rgb(18, 117, 28);
+}
+
+h1 {
+  font-size: 24pt;
+  color: rgb(22, 76, 183);
+}
+
+input,
+button,
+select {
+  font-size: 14pt;
+  margin: 2px;
+}
