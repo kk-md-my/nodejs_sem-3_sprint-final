@@ -21,7 +21,11 @@ resultsRouter.get("/", saveSearch, getData, (req, res) => {
   } else if (statusCode == 401) {
     DEBUG && console.log("resultsRouter. 401");
 
-    res.redirect("/login");
+    res.redirect(401, "/login");
+  } else if (statusCode == 400) {
+    DEBUG && console.log("resultsRouter. 400");
+
+    res.redirect(400, "/search");
   } else if (statusCode == 503) {
     DEBUG && console.log("resultsRouter. 503");
 
