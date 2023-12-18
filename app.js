@@ -32,4 +32,7 @@ app.use("/results", resultsRouter);
 app.use("/*", notFoundRouter);
 
 // Start the server
-app.listen(PORT, console.log(`Server is listening on port: ${PORT}`));
+app.listen(
+  PORT,
+  console.log(`Server is listening on port: ${PORT}, http://localhost:${PORT}`)
+);
