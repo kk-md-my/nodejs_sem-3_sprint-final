@@ -17,6 +17,42 @@ describe("Check whether app routes respond with the correct status codes", () =>
       }
     });
 
+    describe("Check sign-up form", () => {
+      const signupPath = "/signup";
+      const username = "testStatusCodes";
+      const password = "testStatusCodes";
+
+      it("should respond with a status code of '201' if the sign-up was successful", async () => {
+        const res = await request(app)
+          .post(signupPath)
+          .send(`username=${username}&password=${password}`);
+
+        expect(res.status).toBe(201);
+      });
+
+      it("should respond with a status code of '400' if the sign-up was unsuccessful due to incomplete fields", async () => {
+        const queryArr = [
+          "username=&password=",
+          "username=&password=testPassword",
+          "username=testUsername&password=",
+        ];
+
+        for (const query of queryArr) {
+          const res = await request(app).post(signupPath).send(query);
+
+          expect(res.status).toBe(400);
+        }
+      });
+
+      it("should respond with a status code of '409' if the sign-up was unsuccessful because a user with the same credentials already exists", async () => {
+        const res = await request(app)
+          .post(signupPath)
+          .send(`username=${username}&password=${password}`);
+
+        expect(res.status).toBe(409);
+      });
+    });
+
     it("should respond with a status code of '404'", async () => {
       const nonExistentPath = "/nonexistentpath";
       const res = await request(app).get(nonExistentPath);
@@ -50,8 +86,8 @@ describe("Check whether app routes respond with the correct status codes", () =>
       });
 
       it("should respond with a status code of '303' and redirect to '/search' for valid credentials.", async () => {
-        const username = "test_user";
-        const password = "test_user";
+        const username = "testStatusCodes";
+        const password = "testStatusCodes";
 
         const res = await request(app)
           .post(loginPath)
