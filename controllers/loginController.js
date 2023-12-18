@@ -28,13 +28,13 @@ const checkCredentials = async (req, res, next) => {
         console.log(`checkCredentials(). Incorrect password was entered.`);
 
       res.locals.status = "Incorrect password was entered.";
-      res.status(401);
+      res.status(400);
     } else {
       DEBUG &&
         console.log(`checkCredentials(). Incorrect user name was entered.`);
 
       res.locals.status = "Incorrect user name was entered.";
-      res.status(401);
+      res.status(400);
     }
   } catch (err) {
     res.status(503);

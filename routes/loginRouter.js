@@ -23,7 +23,7 @@ loginRouter
 
     if (statusCode == 200) {
       res.redirect(303, "/search");
-    } else if (statusCode == 401) {
+    } else if (statusCode == 400) {
       res.render("login", {
         title: "Login",
         status,
