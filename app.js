@@ -29,4 +29,5 @@ app.use("/search", searchRouter);
 app.use("/results", resultsRouter);
 app.use("/*", notFoundRouter);
 
+// Export the app to use in other modules
 module.exports = app;
