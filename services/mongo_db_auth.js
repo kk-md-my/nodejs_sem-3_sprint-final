@@ -1,8 +1,6 @@
 const { MongoClient } = require("mongodb");
-require("dotenv").config();
 
-const atlasUrl = process.env.MONGOURL;
-
+const atlasUrl = "mongodb+srv://sprint:sprint@procedures.6ezy3p2.mongodb.net/";
 const pool = new MongoClient(atlasUrl);
 
 module.exports = pool;
