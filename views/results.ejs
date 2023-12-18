@@ -2,7 +2,7 @@
 <html lang="en">
     <%- include("./partials/head.ejs", { title: locals.title }) %>
     <body>
-        <%- include('./partials/nav.ejs') %>
+        <%- include("./partials/navbar", { navbar: locals.navbar }) %>
         <div>
             <% if (Array.isArray(locals.data) && locals.data.length) { %>
                 <h1>Returned Procedures: <span><%= locals.data.length %></span></h1>

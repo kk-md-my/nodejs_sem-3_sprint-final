@@ -3,6 +3,7 @@ const express = require("express");
 
 // Import required functions/variables from custom modules
 const { checkCredentials } = require("../controllers/loginController");
+const { navbarMainMap, navbarLoginMap } = require("../config/defaults");
 
 // Set router
 const loginRouter = express.Router();
@@ -13,7 +14,7 @@ loginRouter
   .get((req, res) => {
     DEBUG && console.log("loginRouter. GET: /login");
 
-    res.render("login", { title: "Login" });
+    res.render("login", { title: "Login", navbar: navbarLoginMap });
   })
   .post(checkCredentials, (req, res) => {
     DEBUG && console.log("loginRouter. POST: /login");
@@ -26,6 +27,7 @@ loginRouter
     } else if (statusCode == 400) {
       res.render("login", {
         title: "Login",
+        navbar: navbarLoginMap,
         status,
       });
     } else if (statusCode == 503) {
@@ -33,6 +35,7 @@ loginRouter
 
       res.render("503", {
         title: "503",
+        navbar: navbarMainMap,
       });
     }
   });

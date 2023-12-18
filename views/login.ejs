@@ -2,7 +2,7 @@
 <html lang="en">
   <%- include("./partials/head.ejs", { title: locals.title }) %>
 	<body>
-		<%- include('./partials/nav.ejs') %>
+		<%- include("./partials/navbar", { navbar: locals.navbar }) %>
 		<div class="login">
 			<h1>Login</h1>
 			<form action="/login" method="post">
