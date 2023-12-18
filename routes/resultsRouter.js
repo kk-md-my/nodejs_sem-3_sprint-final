@@ -3,6 +3,7 @@ const express = require("express");
 
 // Import required functions/variables from custom modules
 const { getData, saveSearch } = require("../controllers/resultsController");
+const { navbarMainMap } = require("../config/defaults");
 
 // Set router
 const resultsRouter = express.Router();
@@ -16,6 +17,7 @@ resultsRouter.get("/", saveSearch, getData, (req, res) => {
   if (statusCode == 200) {
     res.render("results", {
       title: "Results",
+      navbar: navbarMainMap,
       data,
     });
   } else if (statusCode == 401) {
@@ -31,6 +33,7 @@ resultsRouter.get("/", saveSearch, getData, (req, res) => {
 
     res.render("503", {
       title: "503",
+      navbar: navbarMainMap,
     });
   }
 });

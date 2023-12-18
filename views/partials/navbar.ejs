@@ -1,0 +1,9 @@
+<% if (navbar && navbar.size) { %>
+  <nav>
+    <ul class="flex flex--gap">
+      <% navbar.forEach((value, key) => { %>
+        <li><a href="<%= value %>">[<%= key %>]</a></li>
+      <% }); %>
+    </ul>
+  </nav>
+<% } %>

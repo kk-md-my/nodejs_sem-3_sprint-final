@@ -2,7 +2,7 @@
 <html lang="en">
     <%- include("./partials/head.ejs", { title: locals.title }) %>
     <body>
-        <%- include('./partials/nav.ejs') %>
+        <%- include("./partials/navbar", { navbar: locals.navbar }) %>
         <h1>Procedure Search Portal</h1>
         <% if (locals.authStatus) { %>
             <span><%= `* ${locals.authStatus}` %></span>

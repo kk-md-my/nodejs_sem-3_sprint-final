@@ -1,6 +1,9 @@
 // Import external packages
 const express = require("express");
 
+// Import required functions/variables from custom modules
+const { navbarMainMap } = require("../config/defaults");
+
 // Set router
 const indexRouter = express.Router();
 
@@ -10,6 +13,7 @@ indexRouter.get("^/$|^/home$", (req, res) => {
 
   const dataObj = {
     title: "Home",
+    navbar: navbarMainMap,
   };
 
   res.render("index", dataObj);

@@ -2,7 +2,7 @@
 <html lang="en">
   <%- include("./partials/head.ejs", { title: locals.title }) %>
   <body>
-    <h1>Home page TEST</h1>
-    <a href="/login">check login</a>
+    <%- include("./partials/navbar", { navbar: locals.navbar }) %>
+    <h1>Home page</h1>
   </body>
 </html>

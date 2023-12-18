@@ -1,6 +1,9 @@
 // Import external packages
 const express = require("express");
 
+// Import required functions/variables from custom modules
+const { navbarSearchMap } = require("../config/defaults");
+
 // Set router
 const searchRouter = express.Router();
 
@@ -12,6 +15,7 @@ searchRouter.get("/", (req, res) => {
 
   const dataObj = {
     title: "Search",
+    navbar: navbarSearchMap,
     authStatus,
   };
 
