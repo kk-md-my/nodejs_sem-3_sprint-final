@@ -20,7 +20,7 @@ searchRouter.get("/", (req, res) => {
   } else {
     DEBUG && console.log("searchRouter. 401");
 
-    res.status(401).render("401", { title: "401" });
+    res.redirect(401, "/login");
   }
 });
 

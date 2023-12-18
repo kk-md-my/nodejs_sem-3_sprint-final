@@ -22,7 +22,7 @@ loginRouter
     const { status } = res.locals;
 
     if (statusCode == 200) {
-      res.redirect("/search");
+      res.redirect(303, "/search");
     } else if (statusCode == 401) {
       res.render("login", {
         title: "Login",
