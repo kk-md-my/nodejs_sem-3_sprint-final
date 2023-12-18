@@ -15,10 +15,13 @@ const saveSearch = async (req, res, next) => {
   try {
     if (!username) {
       throw new Error("User is not authorized");
+    } else if (!keyword) {
+      throw new Error("Missing keyword");
     }
+
     await saveSearchQuery(keyword, username);
   } catch (err) {
-    res.status(username ? 503 : 401);
+    res.status(username && !keyword ? 400 : !username ? 401 : 503);
     console.log(err.message);
   }
 
